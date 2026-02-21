@@ -1,11 +1,83 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Anki JSONs</title>
+    <link rel="stylesheet" href="index.css">
 </head>
-<body>
 
+<body>
+    <div id="header">_eXeCutie's Anki Decks, as JSON</div>
+    <div id="body">
+        <div class="section">
+            <div class="top">Japanese</div>
+            <div class="section_wrap">
+                <div class="left">Radicals</div>
+                <div class="right">
+                    <div class="gallery">
+                        <div class="entry">
+                            <a href="data\radicals.json" target="_blank" rel="noopener noreferrer">Radicals</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section">
+            <div class="top">Greek</div>
+            <div class="section_wrap">
+                <div class="left">Χιλιας</div>
+                <div class="right">
+                    <div class="gallery" id="Χιλιας">
+                        <script>
+                            const chiliasFiles = [
+                                "Α.json",
+                                "Β.json",
+                                "Γ.json",
+                                "Δ.json",
+                                "Ε.json",
+                                "Ζ.json",
+                                "Η.json",
+                                "Θ.json",
+                                "Ι.json",
+                                "Κ.json",
+                                "Λ.json",
+                                "Μ.json",
+                                "Ν.json",
+                                "Ξ.json",
+                                "Ο.json",
+                                "Π.json",
+                                "Ρ.json",
+                                "Σ.json",
+                                "Τ.json",
+                                "Υ.json",
+                                "Φ.json",
+                                "Χ.json",
+                                "Ψ.json",
+                                "Ω.json"
+                            ];
+
+                            const chiliasGallery = document.getElementById("Χιλιας");
+                            chiliasFiles.forEach((filename) => {
+                                const div = document.createElement("div");
+                                div.classList.add("entry");
+                                const a = document.createElement("a");
+                                a.href = `data/greek/chilias/${filename}`;
+                                a.target = "_blank";
+                                a.rel = "noopener noreferrer";
+                                a.textContent = filename.replace(/\.[^/.]+$/, "");
+
+                                div.appendChild(a);
+                                chiliasGallery.appendChild(div);
+                            });
+                        </script>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </body>
+<script src="index.js"></script>
+
 </html>

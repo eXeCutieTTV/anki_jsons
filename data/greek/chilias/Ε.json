@@ -1,0 +1,469 @@
+[
+  {
+    "Front": "ἑαυτόν",
+    "Back": " pron. 1-2: sig selv"
+  },
+  {
+    "Front": "ἐάω",
+    "Back": " vb. ureg.: lader, tillader"
+  },
+  {
+    "Front": "ἑβδοµήκοντα",
+    "Back": " num. indekl.: halvfjerds"
+  },
+  {
+    "Front": "ἕβδοµος",
+    "Back": " num. adj. 1-2: syvende"
+  },
+  {
+    "Front": "ἔγγυθεν",
+    "Back": " adv.: på nært hold"
+  },
+  {
+    "Front": "ἐγγύς",
+    "Back": " adv.: nær"
+  },
+  {
+    "Front": "ἐγείρω",
+    "Back": " vb. ureg.: vækker"
+  },
+  {
+    "Front": "ἐγώ",
+    "Back": " pron.: jeg"
+  },
+  {
+    "Front": "ἕζοµαι",
+    "Back": " vb.: sætter mig"
+  },
+  {
+    "Front": "ἐθέλω",
+    "Back": " vb. (sml. θέλω): vil"
+  },
+  {
+    "Front": "ἐθίζω",
+    "Back": " vb.: vænner til"
+  },
+  {
+    "Front": "ἔθνος",
+    "Back": " sb. 3 n.: folkeslag"
+  },
+  {
+    "Front": "ἔθος",
+    "Back": " sb. 3 n.: vane"
+  },
+  {
+    "Front": "εἰ",
+    "Back": " konj. $: hvis"
+  },
+  {
+    "Front": "εἶδος",
+    "Back": " sb. 3 n.: form, udseende"
+  },
+  {
+    "Front": "εἰκάζω",
+    "Back": " vb.: sammenligner; gætter"
+  },
+  {
+    "Front": "εἴκοσι",
+    "Back": " num. indekl.: tyve"
+  },
+  {
+    "Front": "εἰκοστός",
+    "Back": " num. adj. 1-2: tyvende"
+  },
+  {
+    "Front": "εἴκω",
+    "Back": " vb.: viger"
+  },
+  {
+    "Front": "εἰκών",
+    "Back": " sb. 3 m.: billede"
+  },
+  {
+    "Front": "εἰµι",
+    "Back": " vb. ureg.: er"
+  },
+  {
+    "Front": "εἶµι",
+    "Back": " vb. ureg.: går"
+  },
+  {
+    "Front": "εἴργω",
+    "Back": " vb.: spærrer for"
+  },
+  {
+    "Front": "εἰρήνη",
+    "Back": " sb. 1 f.: fred"
+  },
+  {
+    "Front": "εἰς",
+    "Back": " præp. m. akk.: til, ind i"
+  },
+  {
+    "Front": "εἷς",
+    "Back": " num. µία, ἕν (ureg.): én"
+  },
+  {
+    "Front": "εἰσφορά",
+    "Back": " sb. 1 f.: skat(teindbetaling)"
+  },
+  {
+    "Front": "εἴσω",
+    "Back": " adv.: ind"
+  },
+  {
+    "Front": "εἶτα",
+    "Back": " adv.: så, derefter"
+  },
+  {
+    "Front": "ἐκ/ἐξ",
+    "Back": " præp. m. gen.: ud af, fra"
+  },
+  {
+    "Front": "ἑκάτερος",
+    "Back": " pron. 1-2: begge (egt. enhver af to)"
+  },
+  {
+    "Front": "ἑκατόν",
+    "Back": " num. indekl.: hundrede"
+  },
+  {
+    "Front": "ἐκεῖ",
+    "Back": " adv.: dér"
+  },
+  {
+    "Front": "ἐκεῖθεν",
+    "Back": " adv.: derfra"
+  },
+  {
+    "Front": "ἐκεῖνος",
+    "Back": " pron. 1-2: han, hun, den, det (3."
+  },
+  {
+    "Front": "pers. deixis)"
+  },
+  {
+    "Front": "ἐκεῖσε",
+    "Back": " adv.: derhen"
+  },
+  {
+    "Front": "ἐκκλησία",
+    "Back": " sb. 1 f.: folkeforsamling"
+  },
+  {
+    "Front": "ἐκτός",
+    "Back": " adv.: ude"
+  },
+  {
+    "Front": "ἕκτος",
+    "Back": " num. adj. 1-2: sjette"
+  },
+  {
+    "Front": "ἑκών",
+    "Back": " adj. 3: frivillig"
+  },
+  {
+    "Front": "ἐλάττων",
+    "Back": " adj. 3: mindre"
+  },
+  {
+    "Front": "ἐλαύνω",
+    "Back": " vb. ureg.: sætter i gang; rejser"
+  },
+  {
+    "Front": "ἔλεγχος",
+    "Back": " sb. 2 m.: (mod)bevis"
+  },
+  {
+    "Front": "ἐλέγχω",
+    "Back": " vb.: modbeviser"
+  },
+  {
+    "Front": "ἐλευθερία",
+    "Back": " sb. 1 f.: frihed"
+  },
+  {
+    "Front": "ἐλεύθερος",
+    "Back": " adj. 1-2: fri"
+  },
+  {
+    "Front": "ἕλκω",
+    "Back": " vb.: trækker"
+  },
+  {
+    "Front": "Ἑλλάς",
+    "Back": " sb. 3 f.: Grækenland"
+  },
+  {
+    "Front": "Ἑλλάς",
+    "Back": " sb. 3 f.: Grækenland"
+  },
+  {
+    "Front": "Ἕλλην",
+    "Back": " sb. 3 m.: græker"
+  },
+  {
+    "Front": "Ἕλλην",
+    "Back": " sb. 3 m.: græker"
+  },
+  {
+    "Front": "ἐλπίς",
+    "Back": " sb. 3 f.: håb"
+  },
+  {
+    "Front": "ἔµπειρος",
+    "Back": " adj. 1-2: erfaren"
+  },
+  {
+    "Front": "ἑµπροσθεν",
+    "Back": " adv.: foran"
+  },
+  {
+    "Front": "ἐν",
+    "Back": " præp. m. dat.: i, på"
+  },
+  {
+    "Front": "ἐναντίος",
+    "Back": " adj. 1-2: overfor"
+  },
+  {
+    "Front": "ἔνατος",
+    "Back": " num. adj. 1-2: niende"
+  },
+  {
+    "Front": "ἔνδεκα",
+    "Back": " num. indekl.: elleve"
+  },
+  {
+    "Front": "ἑνδέκατος",
+    "Back": " num. adj. 1-2: ellevte"
+  },
+  {
+    "Front": "ἔνδον",
+    "Back": " adv.: inde"
+  },
+  {
+    "Front": "ἕνεκα",
+    "Back": " præp. m. gen.: på grund af, for -s skyld"
+  },
+  {
+    "Front": "ἐνενήκοντα",
+    "Back": " num. indekl.: halvfems"
+  },
+  {
+    "Front": "ἐνθάδε",
+    "Back": " adv.: her"
+  },
+  {
+    "Front": "ἐνθυµέοµαι",
+    "Back": " vb.: betænker"
+  },
+  {
+    "Front": "ἐνιαυτός",
+    "Back": " sb. 2 m.: år"
+  },
+  {
+    "Front": "ἐννέα",
+    "Back": " num. indekl.: ni"
+  },
+  {
+    "Front": "ἐνταῦθα",
+    "Back": " adv.: her"
+  },
+  {
+    "Front": "ἐνταυτοῖ",
+    "Back": " adv.: herhen"
+  },
+  {
+    "Front": "ἐντεῦθεν",
+    "Back": " adv.: herfra"
+  },
+  {
+    "Front": "ἔντιµος",
+    "Back": " adj. 2: æret"
+  },
+  {
+    "Front": "ἐντός",
+    "Back": " adv.: indenfor"
+  },
+  {
+    "Front": "ἕξ",
+    "Back": " num. indekl.: seks"
+  },
+  {
+    "Front": "ἔξεστι",
+    "Back": " vb. upers.: det er muligt, tilladt"
+  },
+  {
+    "Front": "ἑξήκοντα",
+    "Back": " num. indekl.: tres"
+  },
+  {
+    "Front": "ἔξω",
+    "Back": " adv.: udenfor"
+  },
+  {
+    "Front": "ἔξωθεν",
+    "Back": " adv.: udefra"
+  },
+  {
+    "Front": "ἑορτή",
+    "Back": " sb. 1 f.: (religiøs) fest"
+  },
+  {
+    "Front": "ἔπαινος",
+    "Back": " sb. 2 m.: ros"
+  },
+  {
+    "Front": "ἐπεί / ἐπειδή",
+    "Back": " konj. $: da, når"
+  },
+  {
+    "Front": "ἔπειτα",
+    "Back": " adv.: derefter"
+  },
+  {
+    "Front": "ἐπί",
+    "Back": " præp. m. gen.: (oven) på; under (om tid)"
+  },
+  {
+    "Front": "ἐπί",
+    "Back": " præp. m. akk.: imod, op på"
+  },
+  {
+    "Front": "ἐπί",
+    "Back": " præp. m. dat.: (oven) på; i forbindelse med"
+  },
+  {
+    "Front": "ἐπιθυµέω",
+    "Back": " vb. m. gen.: begærer"
+  },
+  {
+    "Front": "ἐπιµελέοµαι",
+    "Back": " vb.: bekymrer mig om"
+  },
+  {
+    "Front": "ἐπίσταµαι",
+    "Back": " vb.: forstår, kan"
+  },
+  {
+    "Front": "ἐπιστήµη",
+    "Back": " sb. 1 f.: viden, kunnen"
+  },
+  {
+    "Front": "ἐπιτήδειος",
+    "Back": " adj. 1-2: egnet; bekendt"
+  },
+  {
+    "Front": "ἕποµαι",
+    "Back": " vb. ureg.: følger (efter)"
+  },
+  {
+    "Front": "ἔπος",
+    "Back": " sb. 3 n.: ord"
+  },
+  {
+    "Front": "ἑπτά",
+    "Back": " num. indekl.: syv"
+  },
+  {
+    "Front": "ἐράω",
+    "Back": " vb.: elsker"
+  },
+  {
+    "Front": "ἐργάζοµαι",
+    "Back": " vb.: arbejder"
+  },
+  {
+    "Front": "ἔργον",
+    "Back": " sb. 2 n.: værk, arbejde"
+  },
+  {
+    "Front": "ἐρίζω",
+    "Back": " vb.: strides"
+  },
+  {
+    "Front": "ἔρις",
+    "Back": " sb. 3 f.: strid"
+  },
+  {
+    "Front": "ἔρχοµαι",
+    "Back": " vb. ureg.: kommer"
+  },
+  {
+    "Front": "ἔρως",
+    "Back": " sb. 3 m.: kærlighed"
+  },
+  {
+    "Front": "ἐρωτάω",
+    "Back": " vb. ureg.: spørger"
+  },
+  {
+    "Front": "ἐσθίω",
+    "Back": " vb. ureg.: spiser"
+  },
+  {
+    "Front": "ἔσχατος",
+    "Back": " adj. 1-2: sidst"
+  },
+  {
+    "Front": "ἑταίρα",
+    "Back": " sb. 1 f.: veninde; prostitueret, geisha"
+  },
+  {
+    "Front": "ἑταῖρος",
+    "Back": " sb. 2 m.: kammerat"
+  },
+  {
+    "Front": "ἔτι",
+    "Back": " adv.: længere"
+  },
+  {
+    "Front": "ἕτοιµος",
+    "Back": " adj. 1-2: villig, parat"
+  },
+  {
+    "Front": "ἔτος",
+    "Back": " sb. 3 n.: år"
+  },
+  {
+    "Front": "εὖ",
+    "Back": " adv.: godt"
+  },
+  {
+    "Front": "εὐθύς",
+    "Back": " adv.: straks"
+  },
+  {
+    "Front": "εὐµενής",
+    "Back": " adj. 3: venlig(tsindet)"
+  },
+  {
+    "Front": "εὑρίσκω",
+    "Back": " vb. ureg.: finder"
+  },
+  {
+    "Front": "εὐχή",
+    "Back": " sb. 1 f.: bøn"
+  },
+  {
+    "Front": "εὔχοµαι",
+    "Back": " vb.: beder"
+  },
+  {
+    "Front": "ἔχθρα",
+    "Back": " sb. 1 f.: fjendskab"
+  },
+  {
+    "Front": "ἐχθρός",
+    "Back": " adj. 1-2: fjendtlig"
+  },
+  {
+    "Front": "ἔχω",
+    "Back": " vb. ureg.: har; (m. inf.) kan"
+  },
+  {
+    "Front": "ἔως",
+    "Back": " præp./konj.: indtil (som præp. m. gen.)"
+  }
+]

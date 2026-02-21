@@ -1,0 +1,24 @@
+.section_wrap {
+    display: flex;
+}
+
+.top {
+    text-align: center;
+}
+
+.left {
+    flex: .2;
+}
+
+.right {
+    flex: auto
+}
+
+.gallery {
+    background-color: black;
+}
+
+.entry {
+    background-color: grey;
+    width: min-content;
+}
