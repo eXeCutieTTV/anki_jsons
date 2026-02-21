@@ -1,0 +1,3627 @@
+{
+    "Α": [
+        {
+            "Front": "ἀγαθός",
+            "Back": " adj. 1-2: god; adelig"
+        },
+        {
+            "Front": "ἄγαν",
+            "Back": " adv.: for meget"
+        },
+        {
+            "Front": "ἀγορά",
+            "Back": " sb. 1 f.: torv"
+        },
+        {
+            "Front": "ἀγρός",
+            "Back": " sb. 2 m.: mark"
+        },
+        {
+            "Front": "ἄγω",
+            "Back": " vb. ureg.: driver; gør"
+        },
+        {
+            "Front": "ἀγών",
+            "Back": " sb. 3 m.: kamp, konkurrence"
+        },
+        {
+            "Front": "ἀδελφή",
+            "Back": " sb. 1 f.: søster"
+        },
+        {
+            "Front": "ἀδελφός",
+            "Back": " sb. 2 m.: bror"
+        },
+        {
+            "Front": "ἄδικος",
+            "Back": " adj. 1-2: uretfærdig"
+        },
+        {
+            "Front": "ἀεί",
+            "Back": " adv.: altid"
+        },
+        {
+            "Front": "αἱρέω",
+            "Back": " vb. ureg.: tager, (med.) vælger"
+        },
+        {
+            "Front": "αἰσθάνοµαι",
+            "Back": " vb. ureg.: sanser, føler"
+        },
+        {
+            "Front": "αἰσχρός",
+            "Back": " adj. 1-2: grim; umoralsk"
+        },
+        {
+            "Front": "ἀκολουθέω",
+            "Back": " vb.: følger"
+        },
+        {
+            "Front": "ἀκούω",
+            "Back": " vb.: hører"
+        },
+        {
+            "Front": "ἀκριβής",
+            "Back": " adj. 3: præcis"
+        },
+        {
+            "Front": "ἄκρος",
+            "Back": " adj. 1-2: høj"
+        },
+        {
+            "Front": "ἄκων",
+            "Back": " adj. 3: ufrivillig"
+        },
+        {
+            "Front": "ἀλήθεια",
+            "Back": " sb. 1 f.: sandhed"
+        },
+        {
+            "Front": "ἀληθής",
+            "Back": " adj. 3: SAND"
+        },
+        {
+            "Front": "ἀλλά",
+            "Back": " konj.: men"
+        },
+        {
+            "Front": "ἄλλος",
+            "Back": " adj./pron. 1-2: anden"
+        },
+        {
+            "Front": "ἅµα",
+            "Back": " adv.: samtidig; (m. gen.) samtidig med"
+        },
+        {
+            "Front": "ἀµφί",
+            "Back": " præp. m. akk.: omkring"
+        },
+        {
+            "Front": "ἀµφότεροι",
+            "Back": " pron. 1-2 (plur.): begge"
+        },
+        {
+            "Front": "ἄν",
+            "Back": " part.: modalpartiklen - se grammatik"
+        },
+        {
+            "Front": "ἀνά",
+            "Back": " præp. m. akk.: op ad"
+        },
+        {
+            "Front": "ἀναγκάζω",
+            "Back": " vb.: tvinger"
+        },
+        {
+            "Front": "ἀναγκαῖος",
+            "Back": " adj. 1-2: nødvendig"
+        },
+        {
+            "Front": "ἄνευ",
+            "Back": " præp. m. gen.: uden"
+        },
+        {
+            "Front": "ἀνήρ",
+            "Back": " sb. 3 m.: mand"
+        },
+        {
+            "Front": "ἄνθρωπος",
+            "Back": " sb. 2 m.: menneske"
+        },
+        {
+            "Front": "ἀντί",
+            "Back": " præp. m. gen.: i stedet for"
+        },
+        {
+            "Front": "ἄνω",
+            "Back": " adv.: opad"
+        },
+        {
+            "Front": "ἄξιος",
+            "Back": " adj. 1-2: værdig"
+        },
+        {
+            "Front": "ἅπας",
+            "Back": " adj. 3: al, hel"
+        },
+        {
+            "Front": "ἄπειρος",
+            "Back": " adj. 1-2: uerfaren"
+        },
+        {
+            "Front": "ἀπό",
+            "Back": " præp. m. gen.: (væk) fra"
+        },
+        {
+            "Front": "ἀποθνῄσκω",
+            "Back": " vb.: dør"
+        },
+        {
+            "Front": "ἀποκρίνοµαι",
+            "Back": " vb. dep.: svarer"
+        },
+        {
+            "Front": "ἀπολογέοµαι",
+            "Back": " vb.: forsvarer mig"
+        },
+        {
+            "Front": "ἀπορία",
+            "Back": " sb. 1 f.: hjælpeløshed"
+        },
+        {
+            "Front": "ἄπορος",
+            "Back": " adj. 1-2: hjælpeløs, usikker"
+        },
+        {
+            "Front": "ἅπτοµαι",
+            "Back": " vb. m. gen.: rører"
+        },
+        {
+            "Front": "ἄρα",
+            "Back": " part.: altså"
+        },
+        {
+            "Front": "ἆρα",
+            "Back": " part.: om, mon"
+        },
+        {
+            "Front": "ἄργυρος",
+            "Back": " sb. 2 m.: sølv"
+        },
+        {
+            "Front": "ἀρέσκω",
+            "Back": " vb.: behager"
+        },
+        {
+            "Front": "ἀριθµός",
+            "Back": " sb. 2 m.: tal"
+        },
+        {
+            "Front": "ἀριστερός",
+            "Back": " adj. 1-2: venstre"
+        },
+        {
+            "Front": "ἀρκέω",
+            "Back": " vb.: er tilstrækkelig"
+        },
+        {
+            "Front": "ἁρµόττω",
+            "Back": " vb.: passer"
+        },
+        {
+            "Front": "ἁρπάζω",
+            "Back": " vb.: snapper, røver"
+        },
+        {
+            "Front": "ἄρρην",
+            "Back": " adj. 3: mandlig"
+        },
+        {
+            "Front": "ἄρτι",
+            "Back": " adv.: for nylig"
+        },
+        {
+            "Front": "ἀρχή",
+            "Back": " sb. 1 f.: styre; begyndelse"
+        },
+        {
+            "Front": "ἄρχω",
+            "Back": " vb.: styrer; (med.) begynder"
+        },
+        {
+            "Front": "ἄρχων",
+            "Back": " sb. 3 m.: arkont"
+        },
+        {
+            "Front": "ἀσκέω",
+            "Back": " vb.: træner"
+        },
+        {
+            "Front": "ἀσπάζοµαι",
+            "Back": " vb. dep.: tager godt imod"
+        },
+        {
+            "Front": "ἀσπίς",
+            "Back": " sb. 3 f.: skjold"
+        },
+        {
+            "Front": "ἄστρον",
+            "Back": " sb. 2 n.: stjerne"
+        },
+        {
+            "Front": "ἄστυ",
+            "Back": " sb. 3 n.: by"
+        },
+        {
+            "Front": "ἄτακτος",
+            "Back": " adj. 1-2: uordentlig"
+        },
+        {
+            "Front": "ἄτιµος",
+            "Back": " adj. 1-2: æreløs"
+        },
+        {
+            "Front": "αὖ/αὖθις",
+            "Back": " adv.: igen"
+        },
+        {
+            "Front": "αὐξάνω",
+            "Back": " vb. ureg.: vokser"
+        },
+        {
+            "Front": "αὔριον",
+            "Back": " adv.: i morgen"
+        },
+        {
+            "Front": "αυτ-: : se οὗτος"
+        },
+        {
+            "Front": "αὐτίκα",
+            "Back": " adv.: straks"
+        },
+        {
+            "Front": "αὐτός",
+            "Back": " pron.: selv; (m. artikel) samme;"
+        },
+        {
+            "Front": "(uden for nom.) ham",
+            "Back": " hende, den, det"
+        },
+        {
+            "Front": "ἄφρων",
+            "Back": " adj. 3: ufornuftig"
+        }
+    ],
+    "Β": [
+        {
+            "Front": "βαθύς",
+            "Back": " adj. 3: dyb"
+        },
+        {
+            "Front": "βαίνω",
+            "Back": " vb. ureg.: går"
+        },
+        {
+            "Front": "βάλλω",
+            "Back": " vb. ureg.: kaster"
+        },
+        {
+            "Front": "βάρβαρος",
+            "Back": " sb. 2 m.: barbar"
+        },
+        {
+            "Front": "βαρύς",
+            "Back": " adj. 3: tung"
+        },
+        {
+            "Front": "βασιλεύς",
+            "Back": " sb. 3 m.: konge"
+        },
+        {
+            "Front": "βέλτιστος",
+            "Back": " adj. 1-2: bedst"
+        },
+        {
+            "Front": "βελτίων",
+            "Back": " adj. 3: bedre"
+        },
+        {
+            "Front": "βία",
+            "Back": " sb. 1 f.: vold"
+        },
+        {
+            "Front": "βίος",
+            "Back": " sb. 2 m.: liv"
+        },
+        {
+            "Front": "βλάπτω",
+            "Back": " vb.: skader"
+        },
+        {
+            "Front": "βλέπω",
+            "Back": " vb.: ser"
+        },
+        {
+            "Front": "βοάω",
+            "Back": " vb.: råber"
+        },
+        {
+            "Front": "βοήθεια",
+            "Back": " sb. 1 f.: hjælp"
+        },
+        {
+            "Front": "βοηθέω",
+            "Back": " vb.: hjælper"
+        },
+        {
+            "Front": "βουλεύω",
+            "Back": " vb.: giver råd; (med.) rådslår"
+        },
+        {
+            "Front": "βουλή",
+            "Back": " sb. 1 f.: råd; rådsforsamling"
+        },
+        {
+            "Front": "βούλοµαι",
+            "Back": " vb. ureg. dep.: vil"
+        },
+        {
+            "Front": "βοῦς",
+            "Back": " sb. 3 m.: okse"
+        },
+        {
+            "Front": "βραδύς",
+            "Back": " adj. 3: langsom"
+        },
+        {
+            "Front": "βραχύς",
+            "Back": " adj. 3: kort"
+        },
+        {
+            "Front": "βωµός",
+            "Back": " sb. 2 m.: alter"
+        }
+    ],
+    "Γ": [
+        {
+            "Front": "γαµέω",
+            "Back": " vb. ureg.: gifter mig"
+        },
+        {
+            "Front": "γάµος",
+            "Back": " sb. 2 m.: bryllup"
+        },
+        {
+            "Front": "γάρ",
+            "Back": " konj.: thi, for"
+        },
+        {
+            "Front": "γελάω",
+            "Back": " vb.: ler"
+        },
+        {
+            "Front": "γελοῖος",
+            "Back": " adj. 1-2: latterlig"
+        },
+        {
+            "Front": "γέλως",
+            "Back": " sb. 3 m.: latter"
+        },
+        {
+            "Front": "γένεσις",
+            "Back": " sb. 3 f.: tilblivelse"
+        },
+        {
+            "Front": "γένος",
+            "Back": " sb. 3 n.: slægt, art"
+        },
+        {
+            "Front": "γέρων",
+            "Back": " sb. 3 m.: gammel person"
+        },
+        {
+            "Front": "γεύοµαι",
+            "Back": " vb.: smager"
+        },
+        {
+            "Front": "γῆ",
+            "Back": " sb. 1 f.: land"
+        },
+        {
+            "Front": "γίγνοµαι",
+            "Back": " vb. ureg.: bliver"
+        },
+        {
+            "Front": "γιγνώσκω",
+            "Back": " vb. ureg.: erkender, lærer at"
+        },
+        {
+            "Front": "kende"
+        },
+        {
+            "Front": "γλυκύς",
+            "Back": " adj. 3: sød"
+        },
+        {
+            "Front": "γλῶττα",
+            "Back": " sb. 1 f.: tunge, sprog"
+        },
+        {
+            "Front": "γνώµη",
+            "Back": " sb. 1 f.: mening"
+        },
+        {
+            "Front": "γονεύς",
+            "Back": " sb. 3 m.: fader, (plur.) forældre"
+        },
+        {
+            "Front": "γράφω",
+            "Back": " vb.: skriver"
+        },
+        {
+            "Front": "γυµνός",
+            "Back": " adj. 1-2: nøgen"
+        },
+        {
+            "Front": "γυνή",
+            "Back": " sb. ureg.: kvinde"
+        }
+    ],
+    "Δ": [
+        {
+            "Front": "δαίµων",
+            "Back": " sb. 3 m.: guddom"
+        },
+        {
+            "Front": "δέ",
+            "Back": " konj.: men, og, på den anden side"
+        },
+        {
+            "Front": "δέδοικα",
+            "Back": " vb. ureg.: frygter"
+        },
+        {
+            "Front": "δεῖ",
+            "Back": " vb.: det er nødvendigt"
+        },
+        {
+            "Front": "δείκνυµι",
+            "Back": " vb.: viser"
+        },
+        {
+            "Front": "δεινός",
+            "Back": " adj. 1-2: dygtig, skrap, forfærdelig"
+        },
+        {
+            "Front": "δεῖπνον",
+            "Back": " sb. 2 n.: måltid"
+        },
+        {
+            "Front": "δέκα",
+            "Back": " num. indekl.: ti"
+        },
+        {
+            "Front": "δέκατος",
+            "Back": " num. adj. 1-2: tiende"
+        },
+        {
+            "Front": "δένδρον",
+            "Back": " sb. 2 n.: træ"
+        },
+        {
+            "Front": "δεξιός",
+            "Back": " adj. 1-2: højre"
+        },
+        {
+            "Front": "δέοµαι",
+            "Back": " vb. ureg. dep.: har brug for; beder om"
+        },
+        {
+            "Front": "δεσπότης",
+            "Back": " sb. 1 m.: herre"
+        },
+        {
+            "Front": "δεῦρο",
+            "Back": " adv.: herhen"
+        },
+        {
+            "Front": "δεύτερος",
+            "Back": " adj. 1-2: anden"
+        },
+        {
+            "Front": "δεύτερος",
+            "Back": " num. adj. 1-2: anden"
+        },
+        {
+            "Front": "δέχοµαι",
+            "Back": " vb.: modtager"
+        },
+        {
+            "Front": "δέω",
+            "Back": " vb. ureg.: binder"
+        },
+        {
+            "Front": "δή",
+            "Back": " part.: da, så"
+        },
+        {
+            "Front": "δῆλος",
+            "Back": " adj. 1-2: tydelig"
+        },
+        {
+            "Front": "δηλόω",
+            "Back": " vb.: viser"
+        },
+        {
+            "Front": "δῆµος",
+            "Back": " sb. 2 m.: folk"
+        },
+        {
+            "Front": "διά",
+            "Back": " præp. m. akk.: på grund af"
+        },
+        {
+            "Front": "διά",
+            "Back": " præp. m. gen.: gennem, ved hjælp af"
+        },
+        {
+            "Front": "δίαιτα",
+            "Back": " sb. 1 f.: livsstil"
+        },
+        {
+            "Front": "διακόσιοι",
+            "Back": " num. 1-2 (plur.): to hundrede"
+        },
+        {
+            "Front": "διαφθείρω",
+            "Back": " vb.: ødelægger"
+        },
+        {
+            "Front": "διαφορά",
+            "Back": " sb. 1 f.: forskel"
+        },
+        {
+            "Front": "διδάσκαλος",
+            "Back": " sb. 2 m.: lærer"
+        },
+        {
+            "Front": "διδάσκω",
+            "Back": " vb.: underviser"
+        },
+        {
+            "Front": "δίδωµι",
+            "Back": " vb. ureg.: giver"
+        },
+        {
+            "Front": "δικάζω",
+            "Back": " vb.: dømmer, er dommer"
+        },
+        {
+            "Front": "δίκαιος",
+            "Back": " adj. 1-2: retfærdig"
+        },
+        {
+            "Front": "δικαιοσύνη",
+            "Back": " sb. 1 f.: retfærdighed"
+        },
+        {
+            "Front": "δικαστής",
+            "Back": " sb. 1 m.: dommer"
+        },
+        {
+            "Front": "δίκη",
+            "Back": " sb. 1 f.: retfærdighed"
+        },
+        {
+            "Front": "διώκω",
+            "Back": " vb.: jager"
+        },
+        {
+            "Front": "δοκέω",
+            "Back": " vb.: synes"
+        },
+        {
+            "Front": "δόλος",
+            "Back": " sb. 2 m.: svig"
+        },
+        {
+            "Front": "δόξα",
+            "Back": " sb. 1 f.: opfattelse, omdømme"
+        },
+        {
+            "Front": "δόρυ",
+            "Back": " sb. 3 n.: spyd"
+        },
+        {
+            "Front": "δόσις",
+            "Back": " sb. 3 f.: gave, given"
+        },
+        {
+            "Front": "δοῦλος",
+            "Back": " sb. 2 m.: slave"
+        },
+        {
+            "Front": "δρᾶµα",
+            "Back": " sb. 3 n.: handling, teaterstykke"
+        },
+        {
+            "Front": "δράω",
+            "Back": " vb.: handler"
+        },
+        {
+            "Front": "δρόµος",
+            "Back": " sb. 2 m.: løbebane, løb"
+        },
+        {
+            "Front": "δύναµαι",
+            "Back": " vb. ureg.: kan"
+        },
+        {
+            "Front": "δύναµις",
+            "Back": " sb. 3 f.: evne, magt"
+        },
+        {
+            "Front": "δυναστής",
+            "Back": " sb. 1 m.: hersker, magtfuld person"
+        },
+        {
+            "Front": "δυνατός",
+            "Back": " adj. 1-2: mulig, i stand til"
+        },
+        {
+            "Front": "δύο",
+            "Back": " num.: to"
+        },
+        {
+            "Front": "δώδεκα",
+            "Back": " num. indekl.: tolv"
+        },
+        {
+            "Front": "δωδέκατος",
+            "Back": " num. adj. 1-2: tolvte"
+        },
+        {
+            "Front": "δῶρον",
+            "Back": " sb. 2 n.: gave"
+        }
+    ],
+    "Ε": [
+        {
+            "Front": "ἑαυτόν",
+            "Back": " pron. 1-2: sig selv"
+        },
+        {
+            "Front": "ἐάω",
+            "Back": " vb. ureg.: lader, tillader"
+        },
+        {
+            "Front": "ἑβδοµήκοντα",
+            "Back": " num. indekl.: halvfjerds"
+        },
+        {
+            "Front": "ἕβδοµος",
+            "Back": " num. adj. 1-2: syvende"
+        },
+        {
+            "Front": "ἔγγυθεν",
+            "Back": " adv.: på nært hold"
+        },
+        {
+            "Front": "ἐγγύς",
+            "Back": " adv.: nær"
+        },
+        {
+            "Front": "ἐγείρω",
+            "Back": " vb. ureg.: vækker"
+        },
+        {
+            "Front": "ἐγώ",
+            "Back": " pron.: jeg"
+        },
+        {
+            "Front": "ἕζοµαι",
+            "Back": " vb.: sætter mig"
+        },
+        {
+            "Front": "ἐθέλω",
+            "Back": " vb. (sml. θέλω): vil"
+        },
+        {
+            "Front": "ἐθίζω",
+            "Back": " vb.: vænner til"
+        },
+        {
+            "Front": "ἔθνος",
+            "Back": " sb. 3 n.: folkeslag"
+        },
+        {
+            "Front": "ἔθος",
+            "Back": " sb. 3 n.: vane"
+        },
+        {
+            "Front": "εἰ",
+            "Back": " konj. $: hvis"
+        },
+        {
+            "Front": "εἶδος",
+            "Back": " sb. 3 n.: form, udseende"
+        },
+        {
+            "Front": "εἰκάζω",
+            "Back": " vb.: sammenligner; gætter"
+        },
+        {
+            "Front": "εἴκοσι",
+            "Back": " num. indekl.: tyve"
+        },
+        {
+            "Front": "εἰκοστός",
+            "Back": " num. adj. 1-2: tyvende"
+        },
+        {
+            "Front": "εἴκω",
+            "Back": " vb.: viger"
+        },
+        {
+            "Front": "εἰκών",
+            "Back": " sb. 3 m.: billede"
+        },
+        {
+            "Front": "εἰµι",
+            "Back": " vb. ureg.: er"
+        },
+        {
+            "Front": "εἶµι",
+            "Back": " vb. ureg.: går"
+        },
+        {
+            "Front": "εἴργω",
+            "Back": " vb.: spærrer for"
+        },
+        {
+            "Front": "εἰρήνη",
+            "Back": " sb. 1 f.: fred"
+        },
+        {
+            "Front": "εἰς",
+            "Back": " præp. m. akk.: til, ind i"
+        },
+        {
+            "Front": "εἷς",
+            "Back": " num. µία, ἕν (ureg.): én"
+        },
+        {
+            "Front": "εἰσφορά",
+            "Back": " sb. 1 f.: skat(teindbetaling)"
+        },
+        {
+            "Front": "εἴσω",
+            "Back": " adv.: ind"
+        },
+        {
+            "Front": "εἶτα",
+            "Back": " adv.: så, derefter"
+        },
+        {
+            "Front": "ἐκ/ἐξ",
+            "Back": " præp. m. gen.: ud af, fra"
+        },
+        {
+            "Front": "ἑκάτερος",
+            "Back": " pron. 1-2: begge (egt. enhver af to)"
+        },
+        {
+            "Front": "ἑκατόν",
+            "Back": " num. indekl.: hundrede"
+        },
+        {
+            "Front": "ἐκεῖ",
+            "Back": " adv.: dér"
+        },
+        {
+            "Front": "ἐκεῖθεν",
+            "Back": " adv.: derfra"
+        },
+        {
+            "Front": "ἐκεῖνος",
+            "Back": " pron. 1-2: han, hun, den, det (3."
+        },
+        {
+            "Front": "pers. deixis)"
+        },
+        {
+            "Front": "ἐκεῖσε",
+            "Back": " adv.: derhen"
+        },
+        {
+            "Front": "ἐκκλησία",
+            "Back": " sb. 1 f.: folkeforsamling"
+        },
+        {
+            "Front": "ἐκτός",
+            "Back": " adv.: ude"
+        },
+        {
+            "Front": "ἕκτος",
+            "Back": " num. adj. 1-2: sjette"
+        },
+        {
+            "Front": "ἑκών",
+            "Back": " adj. 3: frivillig"
+        },
+        {
+            "Front": "ἐλάττων",
+            "Back": " adj. 3: mindre"
+        },
+        {
+            "Front": "ἐλαύνω",
+            "Back": " vb. ureg.: sætter i gang; rejser"
+        },
+        {
+            "Front": "ἔλεγχος",
+            "Back": " sb. 2 m.: (mod)bevis"
+        },
+        {
+            "Front": "ἐλέγχω",
+            "Back": " vb.: modbeviser"
+        },
+        {
+            "Front": "ἐλευθερία",
+            "Back": " sb. 1 f.: frihed"
+        },
+        {
+            "Front": "ἐλεύθερος",
+            "Back": " adj. 1-2: fri"
+        },
+        {
+            "Front": "ἕλκω",
+            "Back": " vb.: trækker"
+        },
+        {
+            "Front": "Ἑλλάς",
+            "Back": " sb. 3 f.: Grækenland"
+        },
+        {
+            "Front": "Ἑλλάς",
+            "Back": " sb. 3 f.: Grækenland"
+        },
+        {
+            "Front": "Ἕλλην",
+            "Back": " sb. 3 m.: græker"
+        },
+        {
+            "Front": "Ἕλλην",
+            "Back": " sb. 3 m.: græker"
+        },
+        {
+            "Front": "ἐλπίς",
+            "Back": " sb. 3 f.: håb"
+        },
+        {
+            "Front": "ἔµπειρος",
+            "Back": " adj. 1-2: erfaren"
+        },
+        {
+            "Front": "ἑµπροσθεν",
+            "Back": " adv.: foran"
+        },
+        {
+            "Front": "ἐν",
+            "Back": " præp. m. dat.: i, på"
+        },
+        {
+            "Front": "ἐναντίος",
+            "Back": " adj. 1-2: overfor"
+        },
+        {
+            "Front": "ἔνατος",
+            "Back": " num. adj. 1-2: niende"
+        },
+        {
+            "Front": "ἔνδεκα",
+            "Back": " num. indekl.: elleve"
+        },
+        {
+            "Front": "ἑνδέκατος",
+            "Back": " num. adj. 1-2: ellevte"
+        },
+        {
+            "Front": "ἔνδον",
+            "Back": " adv.: inde"
+        },
+        {
+            "Front": "ἕνεκα",
+            "Back": " præp. m. gen.: på grund af, for -s skyld"
+        },
+        {
+            "Front": "ἐνενήκοντα",
+            "Back": " num. indekl.: halvfems"
+        },
+        {
+            "Front": "ἐνθάδε",
+            "Back": " adv.: her"
+        },
+        {
+            "Front": "ἐνθυµέοµαι",
+            "Back": " vb.: betænker"
+        },
+        {
+            "Front": "ἐνιαυτός",
+            "Back": " sb. 2 m.: år"
+        },
+        {
+            "Front": "ἐννέα",
+            "Back": " num. indekl.: ni"
+        },
+        {
+            "Front": "ἐνταῦθα",
+            "Back": " adv.: her"
+        },
+        {
+            "Front": "ἐνταυτοῖ",
+            "Back": " adv.: herhen"
+        },
+        {
+            "Front": "ἐντεῦθεν",
+            "Back": " adv.: herfra"
+        },
+        {
+            "Front": "ἔντιµος",
+            "Back": " adj. 2: æret"
+        },
+        {
+            "Front": "ἐντός",
+            "Back": " adv.: indenfor"
+        },
+        {
+            "Front": "ἕξ",
+            "Back": " num. indekl.: seks"
+        },
+        {
+            "Front": "ἔξεστι",
+            "Back": " vb. upers.: det er muligt, tilladt"
+        },
+        {
+            "Front": "ἑξήκοντα",
+            "Back": " num. indekl.: tres"
+        },
+        {
+            "Front": "ἔξω",
+            "Back": " adv.: udenfor"
+        },
+        {
+            "Front": "ἔξωθεν",
+            "Back": " adv.: udefra"
+        },
+        {
+            "Front": "ἑορτή",
+            "Back": " sb. 1 f.: (religiøs) fest"
+        },
+        {
+            "Front": "ἔπαινος",
+            "Back": " sb. 2 m.: ros"
+        },
+        {
+            "Front": "ἐπεί / ἐπειδή",
+            "Back": " konj. $: da, når"
+        },
+        {
+            "Front": "ἔπειτα",
+            "Back": " adv.: derefter"
+        },
+        {
+            "Front": "ἐπί",
+            "Back": " præp. m. gen.: (oven) på; under (om tid)"
+        },
+        {
+            "Front": "ἐπί",
+            "Back": " præp. m. akk.: imod, op på"
+        },
+        {
+            "Front": "ἐπί",
+            "Back": " præp. m. dat.: (oven) på; i forbindelse med"
+        },
+        {
+            "Front": "ἐπιθυµέω",
+            "Back": " vb. m. gen.: begærer"
+        },
+        {
+            "Front": "ἐπιµελέοµαι",
+            "Back": " vb.: bekymrer mig om"
+        },
+        {
+            "Front": "ἐπίσταµαι",
+            "Back": " vb.: forstår, kan"
+        },
+        {
+            "Front": "ἐπιστήµη",
+            "Back": " sb. 1 f.: viden, kunnen"
+        },
+        {
+            "Front": "ἐπιτήδειος",
+            "Back": " adj. 1-2: egnet; bekendt"
+        },
+        {
+            "Front": "ἕποµαι",
+            "Back": " vb. ureg.: følger (efter)"
+        },
+        {
+            "Front": "ἔπος",
+            "Back": " sb. 3 n.: ord"
+        },
+        {
+            "Front": "ἑπτά",
+            "Back": " num. indekl.: syv"
+        },
+        {
+            "Front": "ἐράω",
+            "Back": " vb.: elsker"
+        },
+        {
+            "Front": "ἐργάζοµαι",
+            "Back": " vb.: arbejder"
+        },
+        {
+            "Front": "ἔργον",
+            "Back": " sb. 2 n.: værk, arbejde"
+        },
+        {
+            "Front": "ἐρίζω",
+            "Back": " vb.: strides"
+        },
+        {
+            "Front": "ἔρις",
+            "Back": " sb. 3 f.: strid"
+        },
+        {
+            "Front": "ἔρχοµαι",
+            "Back": " vb. ureg.: kommer"
+        },
+        {
+            "Front": "ἔρως",
+            "Back": " sb. 3 m.: kærlighed"
+        },
+        {
+            "Front": "ἐρωτάω",
+            "Back": " vb. ureg.: spørger"
+        },
+        {
+            "Front": "ἐσθίω",
+            "Back": " vb. ureg.: spiser"
+        },
+        {
+            "Front": "ἔσχατος",
+            "Back": " adj. 1-2: sidst"
+        },
+        {
+            "Front": "ἑταίρα",
+            "Back": " sb. 1 f.: veninde; prostitueret, geisha"
+        },
+        {
+            "Front": "ἑταῖρος",
+            "Back": " sb. 2 m.: kammerat"
+        },
+        {
+            "Front": "ἔτι",
+            "Back": " adv.: længere"
+        },
+        {
+            "Front": "ἕτοιµος",
+            "Back": " adj. 1-2: villig, parat"
+        },
+        {
+            "Front": "ἔτος",
+            "Back": " sb. 3 n.: år"
+        },
+        {
+            "Front": "εὖ",
+            "Back": " adv.: godt"
+        },
+        {
+            "Front": "εὐθύς",
+            "Back": " adv.: straks"
+        },
+        {
+            "Front": "εὐµενής",
+            "Back": " adj. 3: venlig(tsindet)"
+        },
+        {
+            "Front": "εὑρίσκω",
+            "Back": " vb. ureg.: finder"
+        },
+        {
+            "Front": "εὐχή",
+            "Back": " sb. 1 f.: bøn"
+        },
+        {
+            "Front": "εὔχοµαι",
+            "Back": " vb.: beder"
+        },
+        {
+            "Front": "ἔχθρα",
+            "Back": " sb. 1 f.: fjendskab"
+        },
+        {
+            "Front": "ἐχθρός",
+            "Back": " adj. 1-2: fjendtlig"
+        },
+        {
+            "Front": "ἔχω",
+            "Back": " vb. ureg.: har; (m. inf.) kan"
+        },
+        {
+            "Front": "ἔως",
+            "Back": " præp./konj.: indtil (som præp. m. gen.)"
+        }
+    ],
+    "Ζ": [
+        {
+            "Front": "ζηµία",
+            "Back": " sb. 1 f.: straf"
+        },
+        {
+            "Front": "ζηµιόω",
+            "Back": " vb.: straffer"
+        },
+        {
+            "Front": "ζητέω",
+            "Back": " vb.: søger"
+        },
+        {
+            "Front": "ζῶ",
+            "Back": " vb.: lever"
+        },
+        {
+            "Front": "ζωή",
+            "Back": " sb. 1 f.: liv"
+        },
+        {
+            "Front": "ζῷον",
+            "Back": " sb. 2 n.: dyr"
+        }
+    ],
+    "Η": [
+        {
+            "Front": "ἤ",
+            "Back": " konj. $: eller"
+        },
+        {
+            "Front": "ἤ - ἤ",
+            "Back": " konj. $: enten - eller"
+        },
+        {
+            "Front": "ἡγεµών",
+            "Back": " sb. 3 m.: leder"
+        },
+        {
+            "Front": "ἡγέοµαι",
+            "Back": " vb.: fører; mener"
+        },
+        {
+            "Front": "ἤδη",
+            "Back": " adv.: allerede, nu"
+        },
+        {
+            "Front": "ἥδοµαι",
+            "Back": " vb. ureg.: glæder mig"
+        },
+        {
+            "Front": "ἡδονή",
+            "Back": " sb. 1 f.: glæde"
+        },
+        {
+            "Front": "ἡδύς",
+            "Back": " adj. 3: sød"
+        },
+        {
+            "Front": "ἥκω",
+            "Back": " vb.: er kommet, kommer"
+        },
+        {
+            "Front": "ἡλικία",
+            "Back": " sb. 1 f.: alder"
+        },
+        {
+            "Front": "ἥλιος",
+            "Back": " sb. 2 m.: sol"
+        },
+        {
+            "Front": "ἧµαι",
+            "Back": " vb.: sidder"
+        },
+        {
+            "Front": "ἡµεῖς",
+            "Back": " pron.: vi"
+        },
+        {
+            "Front": "ἠµέρα",
+            "Back": " sb. 1 f.: dag"
+        },
+        {
+            "Front": "ἥµισυς",
+            "Back": " adj. 3: halv"
+        },
+        {
+            "Front": "ἡνίκα",
+            "Back": " konj.: når"
+        },
+        {
+            "Front": "ἥρως",
+            "Back": " sb. 3 m.: helt, heros"
+        },
+        {
+            "Front": "ἡσυχία",
+            "Back": " sb. 1 f.: ro, fred"
+        },
+        {
+            "Front": "ἥττων",
+            "Back": " adj. 3: mindre"
+        }
+    ],
+    "Θ": [
+        {
+            "Front": "θάλαττα",
+            "Back": " sb. 1 f.: hav"
+        },
+        {
+            "Front": "θάνατος",
+            "Back": " sb. 2 m.: død"
+        },
+        {
+            "Front": "θαρρέω",
+            "Back": " vb.: er ved godt mod"
+        },
+        {
+            "Front": "θαυµάζω",
+            "Back": " vb.: beundrer, undrer mig"
+        },
+        {
+            "Front": "θαυµάσιος",
+            "Back": " adj. 1-2: forunderlig,"
+        },
+        {
+            "Front": "beundringsværdig"
+        },
+        {
+            "Front": "θαυµαστός",
+            "Back": " adj. 1-2: forunderlig,"
+        },
+        {
+            "Front": "beundringsværdig"
+        },
+        {
+            "Front": "θεά",
+            "Back": " sb. 1 f.: gudinde"
+        },
+        {
+            "Front": "θεάοµαι",
+            "Back": " vb.: betragter"
+        },
+        {
+            "Front": "θέατρον",
+            "Back": " sb. 2 n.: teater"
+        },
+        {
+            "Front": "θεῖος",
+            "Back": " adj. 1-2: guddommelig"
+        },
+        {
+            "Front": "θέλω",
+            "Back": " vb. (sml. ἐθέλω): vil"
+        },
+        {
+            "Front": "θεός",
+            "Back": " sb. 2 m.: gud"
+        },
+        {
+            "Front": "θεραπεύω",
+            "Back": " vb.: betjener, behandler"
+        },
+        {
+            "Front": "θεράπων",
+            "Back": " sb. 3 m.: tjener"
+        },
+        {
+            "Front": "θερµός",
+            "Back": " adj. 1-2: varm"
+        },
+        {
+            "Front": "θέρος",
+            "Back": " sb. 3 n.: sommer"
+        },
+        {
+            "Front": "θῆλυς",
+            "Back": " adj. 3: kvindelig"
+        },
+        {
+            "Front": "θηρίον",
+            "Back": " sb. 2 n.: dyr (vildt)"
+        },
+        {
+            "Front": "θνητός",
+            "Back": " adj. 1-2: dødelig"
+        },
+        {
+            "Front": "θυγάτηρ",
+            "Back": " sb. 3 f.: datter"
+        },
+        {
+            "Front": "θυµός",
+            "Back": " sb. 2 m.: sind, mod, engagement"
+        },
+        {
+            "Front": "θύρα",
+            "Back": " sb. 1 f.: dør"
+        },
+        {
+            "Front": "θυσία",
+            "Back": " sb. 1 f.: ofring"
+        },
+        {
+            "Front": "θύω",
+            "Back": " vb.: ofrer"
+        }
+    ],
+    "Ι": [
+        {
+            "Front": "ἰατρός",
+            "Back": " sb. 2 m.: læge"
+        },
+        {
+            "Front": "ἰδέα",
+            "Back": " sb. 1 f.: form, udseende"
+        },
+        {
+            "Front": "ἴδιος",
+            "Back": " adj. 1-2: egen"
+        },
+        {
+            "Front": "ἰδιώτης",
+            "Back": " sb. 1 m.: privatperson"
+        },
+        {
+            "Front": "ἱερεύς",
+            "Back": " sb. 3 m.: præst"
+        },
+        {
+            "Front": "ἱερόν",
+            "Back": " sb. 2 n.: helligdom"
+        },
+        {
+            "Front": "ἱερός",
+            "Back": " adj. 1-2: hellig"
+        },
+        {
+            "Front": "ἵηµι",
+            "Back": " vb. ureg.: sender"
+        },
+        {
+            "Front": "ἱκανός",
+            "Back": " adj. 1-2: tilstrækkelig"
+        },
+        {
+            "Front": "ἱκέτης",
+            "Back": " sb. 1m.: flygtning (der søger hjælp)"
+        },
+        {
+            "Front": "ἱκνέοµαι",
+            "Back": " vb. ureg.: (an)kommer"
+        },
+        {
+            "Front": "ἱµάτιον",
+            "Back": " sb. 2 n.: overklædning, kappe"
+        },
+        {
+            "Front": "ἵνα",
+            "Back": " konj. $: for at; hvor"
+        },
+        {
+            "Front": "ἱππεύς",
+            "Back": " sb. 3 m.: rytter"
+        },
+        {
+            "Front": "ἵππος",
+            "Back": " sb. 2 m.: hest"
+        },
+        {
+            "Front": "ἴσος",
+            "Back": " adj. 1-2: lig(e stor)"
+        },
+        {
+            "Front": "ἵστηµι",
+            "Back": " vb. ureg.: stiller"
+        },
+        {
+            "Front": "ἰσχυρός",
+            "Back": " adj. 1-2: stærk"
+        },
+        {
+            "Front": "ἰσχύς",
+            "Back": " sb. 3 f.: styrke"
+        },
+        {
+            "Front": "ἴσως",
+            "Back": " adv.: måske"
+        },
+        {
+            "Front": "ἰχθύς",
+            "Back": " sb. 3 m.: fisk"
+        }
+    ],
+    "Κ": [
+        {
+            "Front": "καθαρός",
+            "Back": " adj. 1-2: ren"
+        },
+        {
+            "Front": "καθέζοµαι",
+            "Back": " vb.: sætter mig"
+        },
+        {
+            "Front": "καθεύδω",
+            "Back": " vb.: sover"
+        },
+        {
+            "Front": "κάθηµαι",
+            "Back": " vb.: sidder"
+        },
+        {
+            "Front": "καί",
+            "Back": " adv.: også"
+        },
+        {
+            "Front": "καί",
+            "Back": " konj.: og"
+        },
+        {
+            "Front": "καί - καί",
+            "Back": " konj. $: både - og"
+        },
+        {
+            "Front": "καιρός",
+            "Back": " sb. 2 m.: rette øjeblik"
+        },
+        {
+            "Front": "καίω",
+            "Back": " vb.: brænder"
+        },
+        {
+            "Front": "κακός",
+            "Back": " adj. 1-2: ringe, slet, ond"
+        },
+        {
+            "Front": "καλέω",
+            "Back": " vb.: kalder"
+        },
+        {
+            "Front": "καλός",
+            "Back": " adj. 1-2: smuk; moralsk god"
+        },
+        {
+            "Front": "κάµνω",
+            "Back": " vb.: er træt, er syg"
+        },
+        {
+            "Front": "καρπός",
+            "Back": " sb. 2 m.: afgrøde"
+        },
+        {
+            "Front": "κατά",
+            "Back": " præp. m. akk.: langs, ifølge"
+        },
+        {
+            "Front": "κατά",
+            "Back": " præp. m. gen.: ned ad, imod"
+        },
+        {
+            "Front": "κάτω",
+            "Back": " adv.: nede"
+        },
+        {
+            "Front": "κεῖµαι",
+            "Back": " vb. ureg.: ligger"
+        },
+        {
+            "Front": "κελεύω",
+            "Back": " vb.: befaler"
+        },
+        {
+            "Front": "κενός",
+            "Back": " adj. 1-2: tom"
+        },
+        {
+            "Front": "κερδαίνω",
+            "Back": " vb.: vinder, får udbytte"
+        },
+        {
+            "Front": "κέρδος",
+            "Back": " sb. 3 n.: udbytte"
+        },
+        {
+            "Front": "κεφαλή",
+            "Back": " sb. 1 f.: hoved"
+        },
+        {
+            "Front": "κήδοµαι",
+            "Back": " vb.: bekymrer mig om"
+        },
+        {
+            "Front": "κῆρυξ",
+            "Back": " sb. 3 m.: budbringer"
+        },
+        {
+            "Front": "κινδυνεύω",
+            "Back": " vb.: risikerer"
+        },
+        {
+            "Front": "κίνδυνος",
+            "Back": " sb. 2 m.: fare"
+        },
+        {
+            "Front": "κινέω",
+            "Back": " vb.: bevæger"
+        },
+        {
+            "Front": "κλαίω",
+            "Back": " vb.: græder"
+        },
+        {
+            "Front": "κλέπτω",
+            "Back": " vb.: stjæler"
+        },
+        {
+            "Front": "κοινός",
+            "Back": " adj. 1-2: fælles"
+        },
+        {
+            "Front": "κοινωνία",
+            "Back": " sb. 1 f.: fællesskab"
+        },
+        {
+            "Front": "κολάζω",
+            "Back": " vb.: straffer"
+        },
+        {
+            "Front": "κόλασις",
+            "Back": " sb. 3 f.: straf"
+        },
+        {
+            "Front": "κοµίζω",
+            "Back": " vb.: bringer"
+        },
+        {
+            "Front": "κόσµιος",
+            "Back": " adj. 1-2: ordentlig"
+        },
+        {
+            "Front": "κόσµος",
+            "Back": " sb. 2 m.: orden, udsmykning"
+        },
+        {
+            "Front": "κοῦφος",
+            "Back": " adj. 1-2: let (at bære)"
+        },
+        {
+            "Front": "κρατερός",
+            "Back": " adj. 1-2: stærk"
+        },
+        {
+            "Front": "κρατέω",
+            "Back": " vb.: behersker, styrer"
+        },
+        {
+            "Front": "κράτος",
+            "Back": " sb. 3 n.: styrke"
+        },
+        {
+            "Front": "κρίνω",
+            "Back": " vb.: skelner, dømmer"
+        },
+        {
+            "Front": "κρίσις",
+            "Back": " sb. 3 f.: skelnen, dom"
+        },
+        {
+            "Front": "κριτής",
+            "Back": " sb. 1 m.: dommer"
+        },
+        {
+            "Front": "κρύπτω",
+            "Back": " vb.: skjuler"
+        },
+        {
+            "Front": "κτάοµαι",
+            "Back": " vb.: erhverver (perf.: har)"
+        },
+        {
+            "Front": "κτείνω",
+            "Back": " sb.: dræber"
+        },
+        {
+            "Front": "κτῆµα",
+            "Back": " sb. 3 n.: ejendom"
+        },
+        {
+            "Front": "κτίζω",
+            "Back": " vb.: grundlægger"
+        },
+        {
+            "Front": "κύκλος",
+            "Back": " sb. 2 m.: ring"
+        },
+        {
+            "Front": "κύριος",
+            "Back": " adj. 1-2: i kontrol, med magt; (sb.) herre"
+        },
+        {
+            "Front": "κύων",
+            "Back": " sb. 3 m.: hund"
+        },
+        {
+            "Front": "κωλύω",
+            "Back": " vb.: forhindrer"
+        },
+        {
+            "Front": "κώµη",
+            "Back": " sb. 1 f.: landsby"
+        }
+    ],
+    "Λ": [
+        {
+            "Front": "λαγχάνω",
+            "Back": " vb. ureg.: får, vinder"
+        },
+        {
+            "Front": "λαµβάνω",
+            "Back": " vb. ureg.: tager, får"
+        },
+        {
+            "Front": "λαµπρός",
+            "Back": " adj. 1-2: strålende"
+        },
+        {
+            "Front": "λανθάνω",
+            "Back": " vb. ureg.: er skjult"
+        },
+        {
+            "Front": "λέγω",
+            "Back": " vb.: siger"
+        },
+        {
+            "Front": "λείπω",
+            "Back": " vb. ureg.: forlader"
+        },
+        {
+            "Front": "λευκός",
+            "Back": " adj. 1-2: hvid"
+        },
+        {
+            "Front": "λήγω",
+            "Back": " vb.: holder op"
+        },
+        {
+            "Front": "λίθος",
+            "Back": " sb. 2 m.: sten"
+        },
+        {
+            "Front": "λιµήν",
+            "Back": " sb. 3 m.: havn"
+        },
+        {
+            "Front": "λογίζοµαι",
+            "Back": " vb.: beregner"
+        },
+        {
+            "Front": "λογικός",
+            "Back": " adj. 1-2: logisk"
+        },
+        {
+            "Front": "λογισµός",
+            "Back": " sb. 2 m.: beregning"
+        },
+        {
+            "Front": "λόγος",
+            "Back": " sb. 2 m.: tale, fornuft"
+        },
+        {
+            "Front": "λοιπός",
+            "Back": " adj. 1-2: resterende"
+        },
+        {
+            "Front": "λυπέω",
+            "Back": " vb.: giver sorg"
+        },
+        {
+            "Front": "λύπη",
+            "Back": " sb. 1 f.: sorg"
+        },
+        {
+            "Front": "λυπηρός",
+            "Back": " adj. 1-2: besværlig"
+        },
+        {
+            "Front": "λύσις",
+            "Back": " sb. 3 f.: løsnen"
+        },
+        {
+            "Front": "λύω",
+            "Back": " vb.: løser"
+        }
+    ],
+    "Μ": [
+        {
+            "Front": "µαίνοµαι",
+            "Back": " vb.: er sindssyg"
+        },
+        {
+            "Front": "µάκαρ",
+            "Back": " adj. 3: lykkelig"
+        },
+        {
+            "Front": "µακαρίζω",
+            "Back": " vb.: priser lykkelig"
+        },
+        {
+            "Front": "µακρός",
+            "Back": " adj. 1-2: lang"
+        },
+        {
+            "Front": "µάλα",
+            "Back": " adv.: meget"
+        },
+        {
+            "Front": "µαλακός",
+            "Back": " adj. 1-2: blød, blid, blødagtig"
+        },
+        {
+            "Front": "µάλιστα",
+            "Back": " adv.: i højeste grad"
+        },
+        {
+            "Front": "µᾶλλον",
+            "Back": " adv.: i højere grad, mere"
+        },
+        {
+            "Front": "µανθάνω",
+            "Back": " vb. ureg.: lærer"
+        },
+        {
+            "Front": "µανία",
+            "Back": " sb. 1 f.: vanvid"
+        },
+        {
+            "Front": "µαρτυρέω",
+            "Back": " vb.: bevidner"
+        },
+        {
+            "Front": "µάρτυς",
+            "Back": " sb. 3 m.: vidne"
+        },
+        {
+            "Front": "µάτην",
+            "Back": " adv.: forgæves"
+        },
+        {
+            "Front": "µάχη",
+            "Back": " sb. 1 f.: kamp"
+        },
+        {
+            "Front": "µάχοµαι",
+            "Back": " vb.: kæmper"
+        },
+        {
+            "Front": "µέγας",
+            "Back": " adj. ureg.: stor"
+        },
+        {
+            "Front": "µέλας",
+            "Back": " adj. 3 ureg.: sort"
+        },
+        {
+            "Front": "µέλει",
+            "Back": " vb. upers.: det interesserer"
+        },
+        {
+            "Front": "µέλλω",
+            "Back": " vb.: skal til at"
+        },
+        {
+            "Front": "µέλος",
+            "Back": " sb. 3 n.: lem; sang, melodi"
+        },
+        {
+            "Front": "µέµφοµαι",
+            "Back": " vb.: kritiserer"
+        },
+        {
+            "Front": "µέν",
+            "Back": " konj. $: på den ene side (foregriber et δέ)"
+        },
+        {
+            "Front": "µένω",
+            "Back": " vb.: (for)bliver"
+        },
+        {
+            "Front": "µερίζω",
+            "Back": " vb.: opdeler"
+        },
+        {
+            "Front": "µέρος",
+            "Back": " sb. 3 n.: del"
+        },
+        {
+            "Front": "µέσος",
+            "Back": " adj. 1-2: i midten, midterµετά, præp. m. gen.: (sammen) med"
+        },
+        {
+            "Front": "µετά",
+            "Back": " præp. m. akk.: efter"
+        },
+        {
+            "Front": "µεταξύ",
+            "Back": " adv./præp. m. gen.: midt imellem"
+        },
+        {
+            "Front": "µεταπέµποµαι",
+            "Back": " vb.: sender bud efter"
+        },
+        {
+            "Front": "µέτριος",
+            "Back": " adj. 1-2: mådeholden"
+        },
+        {
+            "Front": "µέτρον",
+            "Back": " sb. 2 n.: mål(estok)"
+        },
+        {
+            "Front": "µέχρι",
+            "Back": " konj./adv./præp. m. gen.: indtil"
+        },
+        {
+            "Front": "µή",
+            "Back": " konj.: for at ikke"
+        },
+        {
+            "Front": "µή",
+            "Back": " neg.: ikke (afværgende)"
+        },
+        {
+            "Front": "µηδέ",
+            "Back": " konj.: og ikke"
+        },
+        {
+            "Front": "µηδείς",
+            "Back": " pron.: ingen"
+        },
+        {
+            "Front": "µηκέτι",
+            "Back": " adv.: ikke længere"
+        },
+        {
+            "Front": "µῆκος",
+            "Back": " sb. 2 n.: længde"
+        },
+        {
+            "Front": "µῆλον",
+            "Back": " sb. 2 n.: æble"
+        },
+        {
+            "Front": "µήν",
+            "Back": " part.: sandelig"
+        },
+        {
+            "Front": "µήπω",
+            "Back": " adv.: endnu ikke"
+        },
+        {
+            "Front": "µήτε (- µήτε)",
+            "Back": " konj.: og ikke; (dobb.) hverken - eller"
+        },
+        {
+            "Front": "µήτηρ",
+            "Back": " sb. 3 f.: mor"
+        },
+        {
+            "Front": "µηχανάοµαι",
+            "Back": " vb.: planlægger"
+        },
+        {
+            "Front": "µηχανή",
+            "Back": " sb. 1 f.: kran"
+        },
+        {
+            "Front": "µίγνυµι",
+            "Back": " vb.: blander"
+        },
+        {
+            "Front": "µικρός",
+            "Back": " adj. 1-2: lille"
+        },
+        {
+            "Front": "µιµέοµαι",
+            "Back": " vb.: efterligner"
+        },
+        {
+            "Front": "µιµνῄσκω",
+            "Back": " vb.: husker på"
+        },
+        {
+            "Front": "µῖξις",
+            "Back": " sb. 3 f.: blanding"
+        },
+        {
+            "Front": "µισέω",
+            "Back": " vb.: hader"
+        },
+        {
+            "Front": "µισθός",
+            "Back": " sb. 2 m.: løn"
+        },
+        {
+            "Front": "µισθόω",
+            "Back": " vb.: lønner"
+        },
+        {
+            "Front": "µνήµη",
+            "Back": " sb. 1 f.: hukommelse"
+        },
+        {
+            "Front": "µοῖρα",
+            "Back": " sb. 1 f.: lod"
+        },
+        {
+            "Front": "µόνον",
+            "Back": " adv.: kun"
+        },
+        {
+            "Front": "µόνος",
+            "Back": " adj. 1-2: alene"
+        },
+        {
+            "Front": "µόριον",
+            "Back": " sb. 2 n.: del"
+        },
+        {
+            "Front": "µορφή",
+            "Back": " sb. 1 f.: form"
+        },
+        {
+            "Front": "µῦθος",
+            "Back": " sb. 2 m.: fortælling, myte, ord"
+        },
+        {
+            "Front": "µύριοι",
+            "Back": " num. adj. 1-2: titusind"
+        }
+    ],
+    "Ν": [
+        {
+            "Front": "ναός (/νεώς)",
+            "Back": " sb. 2 m.: tempel"
+        },
+        {
+            "Front": "ναῦς",
+            "Back": " sb. 3 f.: skib"
+        },
+        {
+            "Front": "ναύτης",
+            "Back": " sb. 1 m.: sømand"
+        },
+        {
+            "Front": "νεκρός",
+            "Back": " adj. 1-2: død"
+        },
+        {
+            "Front": "νέµω",
+            "Back": " vb.: fordeler"
+        },
+        {
+            "Front": "νέος",
+            "Back": " adj. 1-2: ny"
+        },
+        {
+            "Front": "νῆσος",
+            "Back": " sb. 2 f.: ø"
+        },
+        {
+            "Front": "νίκη",
+            "Back": " sb. 1 f.: sejr"
+        },
+        {
+            "Front": "νοέω",
+            "Back": " vb.: tænker"
+        },
+        {
+            "Front": "νοµίζω",
+            "Back": " vb.: mener"
+        },
+        {
+            "Front": "νόµος",
+            "Back": " sb. 2 m.: lov, fordeling"
+        },
+        {
+            "Front": "νόσος",
+            "Back": " sb. 2 f.: sygdom"
+        },
+        {
+            "Front": "νοῦς",
+            "Back": " sb. 2 m.: sind, tanke"
+        },
+        {
+            "Front": "νῦν",
+            "Back": " adv.: nu"
+        },
+        {
+            "Front": "νύξ",
+            "Back": " sb. 3 f.: nat"
+        }
+    ],
+    "Ξ": [
+        {
+            "Front": "ξένος",
+            "Back": " sb. 2 m.: fremmed"
+        },
+        {
+            "Front": "ξύλον",
+            "Back": " sb. 2 n.: træ (som materiale)"
+        }
+    ],
+    "Ο": [
+        {
+            "Front": "ὁ",
+            "Back": " art.: -en, -et (den best. artikel)"
+        },
+        {
+            "Front": "ὀγδοήκοντα",
+            "Back": " num. indekl.: firs"
+        },
+        {
+            "Front": "ὄγδοος",
+            "Back": " num. adj. 1-2: ottende"
+        },
+        {
+            "Front": "ὅδε",
+            "Back": " pron.: denne"
+        },
+        {
+            "Front": "ὁδός",
+            "Back": " sb. 2 f.: vej"
+        },
+        {
+            "Front": "οἴγνυµι",
+            "Back": " vb.: åbner"
+        },
+        {
+            "Front": "οἶδα",
+            "Back": " vb. ureg.: ved"
+        },
+        {
+            "Front": "οἰκεῖος",
+            "Back": " adj. 1-2: egen, som hører til ens husholdning"
+        },
+        {
+            "Front": "οἰκέτης",
+            "Back": " sb. 1 m.: slave"
+        },
+        {
+            "Front": "οἰκέω",
+            "Back": " vb.: bor"
+        },
+        {
+            "Front": "οἰκία",
+            "Back": " sb. 1 f.: hus"
+        },
+        {
+            "Front": "οἶκος",
+            "Back": " sb. 2 m.: hus(holding)"
+        },
+        {
+            "Front": "οἶµαι",
+            "Back": " vb. ureg.: mener"
+        },
+        {
+            "Front": "οἶνος",
+            "Back": " sb. 2 m.: vin"
+        },
+        {
+            "Front": "οἷός τ’ εἰµί",
+            "Back": " vb.: er i stand til"
+        },
+        {
+            "Front": "οἴχοµαι",
+            "Back": " vb.: går"
+        },
+        {
+            "Front": "ὀκτώ",
+            "Back": " num. indekl.: otte"
+        },
+        {
+            "Front": "ὀλίγος",
+            "Back": " adj. 1-2: fåtallig"
+        },
+        {
+            "Front": "ὄλλυµι",
+            "Back": " vb. ureg.: ødelægger"
+        },
+        {
+            "Front": "ὅλος",
+            "Back": " adj. 1-2: hel"
+        },
+        {
+            "Front": "ὄµνυµι",
+            "Back": " vb. ureg.: sværger"
+        },
+        {
+            "Front": "ὅµοιος",
+            "Back": " adj. 1-2: ens, lige (af art)"
+        },
+        {
+            "Front": "ὅµως",
+            "Back": " adv.: alligevel"
+        },
+        {
+            "Front": "ὄναρ",
+            "Back": " sb. 3 n.: drøm"
+        },
+        {
+            "Front": "ὄνειρος",
+            "Back": " sb. 2 m.: drøm"
+        },
+        {
+            "Front": "ὄνοµα",
+            "Back": " sb. 3 n.: navn, ord"
+        },
+        {
+            "Front": "ὀξύς",
+            "Back": " adj. 3: skarp"
+        },
+        {
+            "Front": "ὄπισθεν",
+            "Back": " adv.: bagfra"
+        },
+        {
+            "Front": "ὀπίσω",
+            "Back": " adv.: bagved"
+        },
+        {
+            "Front": "ὅπλον",
+            "Back": " sb. 2 n.: våben"
+        },
+        {
+            "Front": "ὁπόθεν",
+            "Back": " adv./konj.: hvorfra"
+        },
+        {
+            "Front": "ὅποι",
+            "Back": " adv./konj.: hvorhen"
+        },
+        {
+            "Front": "ὁποίως",
+            "Back": " adv./konj.: hvordan"
+        },
+        {
+            "Front": "ὁπότε",
+            "Back": " adv./konj.: hvornår"
+        },
+        {
+            "Front": "ὅπου",
+            "Back": " adv./konj.: hvor"
+        },
+        {
+            "Front": "ὅπως",
+            "Back": " konj. $: for at, hvordan"
+        },
+        {
+            "Front": "ὁράω",
+            "Back": " vb. ureg.: ser"
+        },
+        {
+            "Front": "ὄργανον",
+            "Back": " sb. 2 n.: redskab"
+        },
+        {
+            "Front": "ὀργή",
+            "Back": " sb. 1 f.: vrede"
+        },
+        {
+            "Front": "ὀργίζοµαι",
+            "Back": " vb.: (bliv)er vred"
+        },
+        {
+            "Front": "ὀρέγοµαι",
+            "Back": " vb.: er sulten efter"
+        },
+        {
+            "Front": "ὀρθός",
+            "Back": " adj. 1-2: ret(opstående)"
+        },
+        {
+            "Front": "ὁρίζω",
+            "Back": " vb.: afgrænser"
+        },
+        {
+            "Front": "ὅρκος",
+            "Back": " sb. 2 m.: ed"
+        },
+        {
+            "Front": "ὁρµάω",
+            "Back": " vb.: driver afsted"
+        },
+        {
+            "Front": "ὄρνις",
+            "Back": " sb. 3 m.: fugl"
+        },
+        {
+            "Front": "ὄρος",
+            "Back": " sb. 3 n.: bjerg"
+        },
+        {
+            "Front": "ὅρος",
+            "Back": " sb. 2 m.: grænse"
+        },
+        {
+            "Front": "ὅς",
+            "Back": " pron. 1-2: som, der"
+        },
+        {
+            "Front": "ὅσιος",
+            "Back": " adj. 1-2: hellig"
+        },
+        {
+            "Front": "ὅσος",
+            "Back": " pron. 1-2: (så stor) som"
+        },
+        {
+            "Front": "ὅστις",
+            "Back": " pron.: enhver som"
+        },
+        {
+            "Front": "ὅτε",
+            "Back": " konj.: når (ofte smeltet sammen med"
+        },
+        {
+            "Front": "ἄν til ὅταν)"
+        },
+        {
+            "Front": "ὅτι",
+            "Back": " konj. $: at, fordi"
+        },
+        {
+            "Front": "οὐ(κ)",
+            "Back": " neg.: ikke"
+        },
+        {
+            "Front": "οὐδαµοῦ",
+            "Back": " adv.: intetsteds"
+        },
+        {
+            "Front": "οὐδαµῶς",
+            "Back": " adv.: på ingen måde"
+        },
+        {
+            "Front": "οὐδείς",
+            "Back": " pron. (ureg.): ingen"
+        },
+        {
+            "Front": "οὐκέτι",
+            "Back": " adv.: ikke længere"
+        },
+        {
+            "Front": "οὖν",
+            "Back": " part.: altså"
+        },
+        {
+            "Front": "οὑπω",
+            "Back": " adv.: endnu ikke"
+        },
+        {
+            "Front": "οὐρανός",
+            "Back": " sb. 2 m.: himmel"
+        },
+        {
+            "Front": "οὖς",
+            "Back": " sb. 3 n.: øre"
+        },
+        {
+            "Front": "οὔτε (- οὔτε)",
+            "Back": " konj.: og ikke; (dobb.) hverken - eller"
+        },
+        {
+            "Front": "οὗτος",
+            "Back": " pron. 1-2 (ureg.): denne"
+        },
+        {
+            "Front": "οὕτως",
+            "Back": " adv.: således"
+        },
+        {
+            "Front": "ὄχλος",
+            "Back": " sb. 2 m.: forvirret mængde"
+        },
+        {
+            "Front": "ὄψις",
+            "Back": " sb. 3 f.: syn"
+        }
+    ],
+    "Π": [
+        {
+            "Front": "πάθος",
+            "Back": " sb. 3 n.: påvirkning"
+        },
+        {
+            "Front": "παιδεία",
+            "Back": " sb. 1 f.: opdragelse"
+        },
+        {
+            "Front": "παιδεύω",
+            "Back": " vb.: opdrager"
+        },
+        {
+            "Front": "παίζω",
+            "Back": " vb.: leger"
+        },
+        {
+            "Front": "παῖς",
+            "Back": " sb. 3 m./f.: barn"
+        },
+        {
+            "Front": "πάλαι",
+            "Back": " adv.: for længe siden"
+        },
+        {
+            "Front": "πάλιν",
+            "Back": " adv.: igen"
+        },
+        {
+            "Front": "πανταχῇ",
+            "Back": " adv.: overalt"
+        },
+        {
+            "Front": "πανταχόθεν",
+            "Back": " adv.: fra alle sider"
+        },
+        {
+            "Front": "πανταχοῦ",
+            "Back": " adv.: overalt"
+        },
+        {
+            "Front": "πάντῃ",
+            "Back": " adv.: overalt"
+        },
+        {
+            "Front": "πάνυ",
+            "Back": " adv.: meget"
+        },
+        {
+            "Front": "παρά",
+            "Back": " præp. m. akk.: til, hen imod"
+        },
+        {
+            "Front": "παρά",
+            "Back": " præp. m. gen.: fra"
+        },
+        {
+            "Front": "παρά",
+            "Back": " præp. m. dat.: ved siden af"
+        },
+        {
+            "Front": "παρθένος",
+            "Back": " sb. 2 f.: ung pige"
+        },
+        {
+            "Front": "πᾶς",
+            "Back": " adj. 3: al, hel"
+        },
+        {
+            "Front": "πάσχω",
+            "Back": " vb. ureg.: er udsat for"
+        },
+        {
+            "Front": "πατήρ",
+            "Back": " sb. 3 m.: far"
+        },
+        {
+            "Front": "πατρίς",
+            "Back": " sb. 3 f.: fædreland"
+        },
+        {
+            "Front": "παύω",
+            "Back": " vb.: stopper"
+        },
+        {
+            "Front": "πεδίον",
+            "Back": " sb. 2 n.: slette"
+        },
+        {
+            "Front": "πείθω",
+            "Back": " vb.: overtaler, (med.) adlyder"
+        },
+        {
+            "Front": "πεῖρα",
+            "Back": " sb. 1 f.: forsøg"
+        },
+        {
+            "Front": "πειράοµαι",
+            "Back": " vb.: forsøger"
+        },
+        {
+            "Front": "πέµπτος",
+            "Back": " num. adj. 1-2: femte"
+        },
+        {
+            "Front": "πέµπω",
+            "Back": " vb.: sender"
+        },
+        {
+            "Front": "πένης",
+            "Back": " adj. 3: fattig"
+        },
+        {
+            "Front": "πέντε",
+            "Back": " num. indekl.: fem"
+        },
+        {
+            "Front": "πεντήκοντα",
+            "Back": " num. indekl.: halvtreds"
+        },
+        {
+            "Front": "πέρα",
+            "Back": " adv.: hinsides"
+        },
+        {
+            "Front": "περαίνω",
+            "Back": " vb.: gør færdig"
+        },
+        {
+            "Front": "περί",
+            "Back": " præp. m. akk.: omkring (et sted)"
+        },
+        {
+            "Front": "περί",
+            "Back": " præp. m. gen.: om (et emne)"
+        },
+        {
+            "Front": "περί",
+            "Back": " præp. m. dat.: rundt om på"
+        },
+        {
+            "Front": "περιττός",
+            "Back": " adj. 1-2: overflødig"
+        },
+        {
+            "Front": "πέτρα",
+            "Back": " sb. 1 f.: klippe"
+        },
+        {
+            "Front": "πηγή",
+            "Back": " sb. 1 f.: kilde"
+        },
+        {
+            "Front": "πιέζω",
+            "Back": " vb.: presser"
+        },
+        {
+            "Front": "πίµπληµι",
+            "Back": " vb.: fylder"
+        },
+        {
+            "Front": "πίνω",
+            "Back": " vb.: drikker"
+        },
+        {
+            "Front": "πίπτω",
+            "Back": " vb.: falder"
+        },
+        {
+            "Front": "πιστεύω",
+            "Back": " vb.: stoler på"
+        },
+        {
+            "Front": "πίστις",
+            "Back": " sb. 3 f.: tillid"
+        },
+        {
+            "Front": "πιστός",
+            "Back": " adj. 1-2: troværdig"
+        },
+        {
+            "Front": "πλανάοµαι",
+            "Back": " vb.: flakker omkring"
+        },
+        {
+            "Front": "πλέω",
+            "Back": " vb.: sejler"
+        },
+        {
+            "Front": "πληγή",
+            "Back": " sb. 1 f.: slag"
+        },
+        {
+            "Front": "πλῆθος",
+            "Back": " sb. 3 n.: mængde"
+        },
+        {
+            "Front": "πλήν",
+            "Back": " præp./adv.: på nær"
+        },
+        {
+            "Front": "πλησιάζω",
+            "Back": " vb.: nærmer mig"
+        },
+        {
+            "Front": "πλησίον",
+            "Back": " adv.: nær ved"
+        },
+        {
+            "Front": "πλήττω",
+            "Back": " vb.: slår"
+        },
+        {
+            "Front": "πλούσιος",
+            "Back": " adj. 1-2: rig"
+        },
+        {
+            "Front": "πλοῦτος",
+            "Back": " sb. 2 m.: rigdom"
+        },
+        {
+            "Front": "πνεῦµα",
+            "Back": " sb. 3 n.: åndepust, let vind"
+        },
+        {
+            "Front": "πόθεν",
+            "Back": " adv./konj.: hvorfra; (u. tryk) et eller"
+        },
+        {
+            "Front": "andet sted fra"
+        },
+        {
+            "Front": "ποῖ",
+            "Back": " adv./konj.: hvorhen; (u. tryk) et eller"
+        },
+        {
+            "Front": "andet sted hen"
+        },
+        {
+            "Front": "ποιέω",
+            "Back": " vb.: laver"
+        },
+        {
+            "Front": "ποίηµα",
+            "Back": " sb. 3 n.: digt"
+        },
+        {
+            "Front": "ποίησις",
+            "Back": " sb. 3 f.: skabelse"
+        },
+        {
+            "Front": "ποικίλος",
+            "Back": " adj. 1-2: broget"
+        },
+        {
+            "Front": "ποιµήν",
+            "Back": " sb. 3 m.: hyrde"
+        },
+        {
+            "Front": "πολεµέω",
+            "Back": " vb.: bekæmper"
+        },
+        {
+            "Front": "πολέµιος",
+            "Back": " adj. 1-2: fjende"
+        },
+        {
+            "Front": "πόλεµος",
+            "Back": " sb. 2 m.: krig"
+        },
+        {
+            "Front": "πόλις",
+            "Back": " sb. 3 f.: by, bystat"
+        },
+        {
+            "Front": "πολιτεία",
+            "Back": " sb. 1 f.: samfund(sform)"
+        },
+        {
+            "Front": "πολίτης",
+            "Back": " sb. 1 m.: borger"
+        },
+        {
+            "Front": "πολιτικός",
+            "Back": " adj. 1-2: politisk, som har med byen at gøre"
+        },
+        {
+            "Front": "πολύς",
+            "Back": " adj. ureg.: megen"
+        },
+        {
+            "Front": "πονέω",
+            "Back": " vb.: anstrenger mig"
+        },
+        {
+            "Front": "πονηρία",
+            "Back": " sb. 1 f.: slethed"
+        },
+        {
+            "Front": "πονηρός",
+            "Back": " adj. 1-2: ond, dårlig"
+        },
+        {
+            "Front": "πόνος",
+            "Back": " sb. 2 m.: anstrengelse"
+        },
+        {
+            "Front": "πορεύοµαι",
+            "Back": " vb.: drager afsted"
+        },
+        {
+            "Front": "πορίζοµαι",
+            "Back": " vb.: skaffer til veje"
+        },
+        {
+            "Front": "πόρος",
+            "Back": " sb. 2 m.: forsyningsvej"
+        },
+        {
+            "Front": "ποταµός",
+            "Back": " sb. 2 m.: flod"
+        },
+        {
+            "Front": "πότε",
+            "Back": " adv./konj.: hvornår; (u. tryk) på et eller andet tidspunkt"
+        },
+        {
+            "Front": "ποῦ",
+            "Back": " adv./konj.: hvor; (u. tryk) et eller andet sted"
+        },
+        {
+            "Front": "πρᾶγµα",
+            "Back": " sb. 3 n.: ting, sag"
+        },
+        {
+            "Front": "πρᾶξις",
+            "Back": " sb. 3 f.: gerning"
+        },
+        {
+            "Front": "πράττω",
+            "Back": " vb.: gør, handler"
+        },
+        {
+            "Front": "πρέπει",
+            "Back": " vb.: det passer sig"
+        },
+        {
+            "Front": "πρεσβύς",
+            "Back": " sb. 3 m.: gammel mand; udsending"
+        },
+        {
+            "Front": "πρίν",
+            "Back": " konj. $: før end"
+        },
+        {
+            "Front": "πρό",
+            "Back": " præp. m. gen.: foran, før"
+        },
+        {
+            "Front": "πρόγονοι",
+            "Back": " sb. 2 m. (plur.): forfædre"
+        },
+        {
+            "Front": "πρόθυµος",
+            "Back": " adj. 1-2: villig"
+        },
+        {
+            "Front": "πρός",
+            "Back": " præp. m. akk.: hen til"
+        },
+        {
+            "Front": "πρός",
+            "Back": " præp. m. gen.: fra"
+        },
+        {
+            "Front": "πρός",
+            "Back": " præp. m. dat.: i tilgift til"
+        },
+        {
+            "Front": "πρόσθεν",
+            "Back": " adv.: foran, før"
+        },
+        {
+            "Front": "προσποιέοµαι",
+            "Back": " vb.: foregiver"
+        },
+        {
+            "Front": "πρότερος",
+            "Back": " adj. 1-2: tidligere"
+        },
+        {
+            "Front": "πρῶτος",
+            "Back": " adj. 1-2: først"
+        },
+        {
+            "Front": "πρῶτος",
+            "Back": " num. adj. 1-2: først"
+        },
+        {
+            "Front": "πυκνός",
+            "Back": " adj. 1-2: tætpakket"
+        },
+        {
+            "Front": "πύλη",
+            "Back": " sb. 1 f.: port"
+        },
+        {
+            "Front": "πυνθάνοµαι",
+            "Back": " vb.: hører"
+        },
+        {
+            "Front": "πῦρ",
+            "Back": " sb. 3 n.: ild"
+        },
+        {
+            "Front": "πω",
+            "Back": " adv.: nogensinde"
+        },
+        {
+            "Front": "πωλέω",
+            "Back": " vb.: sælger"
+        },
+        {
+            "Front": "πῶς",
+            "Back": " adv./konj.: hvordan; (u. tryk) på en eller anden måde"
+        }
+    ],
+    "Ρ": [
+        {
+            "Front": "ῥάδιος",
+            "Back": " adj. 1-2: let (at gøre)"
+        },
+        {
+            "Front": "ῥέω",
+            "Back": " vb.: flyder"
+        },
+        {
+            "Front": "ῥήγνυµι",
+            "Back": " vb.: knækker"
+        },
+        {
+            "Front": "ῥώµη",
+            "Back": " sb. 1 f.: styrke"
+        }
+    ],
+    "Σ": [
+        {
+            "Front": "σάρξ",
+            "Back": " sb. 3 f.: kød"
+        },
+        {
+            "Front": "σαφής",
+            "Back": " adj. 3: tydelig"
+        },
+        {
+            "Front": "σελήνη",
+            "Back": " sb. 1 f.: måne"
+        },
+        {
+            "Front": "σηµαίνω",
+            "Back": " vb.: viser"
+        },
+        {
+            "Front": "σηµεῖον",
+            "Back": " sb. 2 n.: tegn"
+        },
+        {
+            "Front": "σθένος",
+            "Back": " sb. 3 n.: styrke"
+        },
+        {
+            "Front": "σιγάω",
+            "Back": " vb.: tier"
+        },
+        {
+            "Front": "σιγή",
+            "Back": " sb. 1 f.: tavshed"
+        },
+        {
+            "Front": "σίδηρος",
+            "Back": " sb. 2 m.: jern"
+        },
+        {
+            "Front": "σῖτος",
+            "Back": " sb. 2 m.: korn, mad"
+        },
+        {
+            "Front": "σκέπτοµαι",
+            "Back": " vb.: ser på"
+        },
+        {
+            "Front": "σκευάζω",
+            "Back": " vb.: skaffer udstyr"
+        },
+        {
+            "Front": "σκεῦος",
+            "Back": " sb. 3 n.: udstyr"
+        },
+        {
+            "Front": "σκέψις",
+            "Back": " sb. 3 f.: undersøgelse"
+        },
+        {
+            "Front": "σκοπέω",
+            "Back": " vb.: sigter, spejder"
+        },
+        {
+            "Front": "σκοπός",
+            "Back": " sb. 2 m.: mål (at sigte efter)"
+        },
+        {
+            "Front": "σοφία",
+            "Back": " sb. 1 f.: visdom"
+        },
+        {
+            "Front": "σοφιστής",
+            "Back": " sb. 1 m.: vismand"
+        },
+        {
+            "Front": "σοφός",
+            "Back": " adj. 1-2: klog"
+        },
+        {
+            "Front": "σπείρω",
+            "Back": " vb.: sår, spreder"
+        },
+        {
+            "Front": "σπέρµα",
+            "Back": " sb. 3 n.: sæd"
+        },
+        {
+            "Front": "σπεύδω",
+            "Back": " vb.: iler"
+        },
+        {
+            "Front": "σπορά",
+            "Back": " sb. 1 f.: såning"
+        },
+        {
+            "Front": "σπουδάζω",
+            "Back": " vb.: er alvorlig"
+        },
+        {
+            "Front": "σπουδαῖος",
+            "Back": " adj. 1-2: seriøs"
+        },
+        {
+            "Front": "σπουδή",
+            "Back": " sb. 1 f.: alvor"
+        },
+        {
+            "Front": "στέλλω",
+            "Back": " vb.: sender"
+        },
+        {
+            "Front": "στερέω",
+            "Back": " vb.: berøver"
+        },
+        {
+            "Front": "στέφανος",
+            "Back": " sb. 2 m.: krans"
+        },
+        {
+            "Front": "στόλος",
+            "Back": " sb. 2 m.: udsendt gruppe"
+        },
+        {
+            "Front": "στόµα",
+            "Back": " sb. 3 n.: mund"
+        },
+        {
+            "Front": "στρατεία",
+            "Back": " sb. 1 f.: krigstogt"
+        },
+        {
+            "Front": "στρατεύω",
+            "Back": " vb.: er i felten"
+        },
+        {
+            "Front": "στρατηγός",
+            "Back": " sb. 2 m.: militær leder"
+        },
+        {
+            "Front": "στρατιά",
+            "Back": " sb. 1 f.: krigstogt"
+        },
+        {
+            "Front": "στρατιώτης",
+            "Back": " sb. 1 m.: soldat"
+        },
+        {
+            "Front": "στρατόπεδον",
+            "Back": " sb. 2 n.: militær lejr"
+        },
+        {
+            "Front": "στρατός",
+            "Back": " sb. 2 m.: hær"
+        },
+        {
+            "Front": "στρέφω",
+            "Back": " vb.: vender"
+        },
+        {
+            "Front": "στροφή",
+            "Back": " sb. 1 f.: drejning"
+        },
+        {
+            "Front": "σύ",
+            "Back": " pron.: du"
+        },
+        {
+            "Front": "σύµµαχος",
+            "Back": " sb. 2 m.: forbundsfælle"
+        },
+        {
+            "Front": "συµφορά",
+            "Back": " sb. 1 f.: tilfælde"
+        },
+        {
+            "Front": "σύν",
+            "Back": " præp. m. dat.: (sammen) med"
+        },
+        {
+            "Front": "συχνός",
+            "Back": " adj. 1-2: tætpakket"
+        },
+        {
+            "Front": "σφόδρα",
+            "Back": " adv.: voldsomt"
+        },
+        {
+            "Front": "σχεδόν",
+            "Back": " adv.: næsten"
+        },
+        {
+            "Front": "σχῆµα",
+            "Back": " sb. 3 n.: stilling"
+        },
+        {
+            "Front": "σχολή",
+            "Back": " sb. 1 f.: ro"
+        },
+        {
+            "Front": "σῴζω",
+            "Back": " vb.: redder"
+        },
+        {
+            "Front": "σῶµα",
+            "Back": " sb. 3 n.: krop"
+        },
+        {
+            "Front": "σωτήρ",
+            "Back": " sb. 3 m.: redningsmand"
+        },
+        {
+            "Front": "σωτηρία",
+            "Back": " sb. 1 f.: redning"
+        },
+        {
+            "Front": "σώφρων",
+            "Back": " adj. 3 m./f.: klog, forsigtig"
+        }
+    ],
+    "Τ": [
+        {
+            "Front": "τάξις",
+            "Back": " sb. 3 f.: orden"
+        },
+        {
+            "Front": "ταράττω",
+            "Back": " vb.: forstyrrer"
+        },
+        {
+            "Front": "τάττω",
+            "Back": " vb.: opstiller"
+        },
+        {
+            "Front": "ταυτ-: : se οὗτος"
+        },
+        {
+            "Front": "τάχος",
+            "Back": " sb. 3 n.: hurtighed"
+        },
+        {
+            "Front": "ταχύς",
+            "Back": " adj. 3: hurtig"
+        },
+        {
+            "Front": "τε",
+            "Back": " konj.: og (efterhængt)"
+        },
+        {
+            "Front": "τε - καί",
+            "Back": " konj. $: både - og"
+        },
+        {
+            "Front": "τείνω",
+            "Back": " vb.: spænder"
+        },
+        {
+            "Front": "τεῖχος",
+            "Back": " sb. 3 n.: mur"
+        },
+        {
+            "Front": "τεκµήριον",
+            "Back": " sb. 2 n.: tegn"
+        },
+        {
+            "Front": "τέκνον",
+            "Back": " sb. 2 n.: barn"
+        },
+        {
+            "Front": "τέλειος",
+            "Back": " adj. 1-2: færdig"
+        },
+        {
+            "Front": "τελευτάω",
+            "Back": " vb.: dør, slutter"
+        },
+        {
+            "Front": "τελευτή",
+            "Back": " sb. 1 f.: ende"
+        },
+        {
+            "Front": "τελέω",
+            "Back": " vb.: fuldbyrder"
+        },
+        {
+            "Front": "τέλος",
+            "Back": " sb. 3 n.: (ende)mål"
+        },
+        {
+            "Front": "τέµνω",
+            "Back": " vb.: skærer"
+        },
+        {
+            "Front": "τέταρτος",
+            "Back": " num. adj. 1-2: fjerde"
+        },
+        {
+            "Front": "τέτταρα",
+            "Back": " num. indekl.: fire"
+        },
+        {
+            "Front": "τετταράκοντα",
+            "Back": " num. indekl.: fyrre"
+        },
+        {
+            "Front": "τέχνη",
+            "Back": " sb. 1 f.: færdighed"
+        },
+        {
+            "Front": "τηρέω",
+            "Back": " vb.: bevogter"
+        },
+        {
+            "Front": "τίθηµι",
+            "Back": " vb. ureg.: sætter"
+        },
+        {
+            "Front": "τίκτω",
+            "Back": " vb.: føder"
+        },
+        {
+            "Front": "τιµάω",
+            "Back": " vb.: ærer"
+        },
+        {
+            "Front": "τιµή",
+            "Back": " sb. 1 f.: værdi, ære"
+        },
+        {
+            "Front": "τιν-: : se τίς eller τις"
+        },
+        {
+            "Front": "τις",
+            "Back": " pron.: nogen"
+        },
+        {
+            "Front": "τίνω",
+            "Back": " vb.: betaler"
+        },
+        {
+            "Front": "τίς",
+            "Back": " pron.: hvem"
+        },
+        {
+            "Front": "τίσις",
+            "Back": " sb. 3 f.: betaling"
+        },
+        {
+            "Front": "τοιοῦτος",
+            "Back": " pron. 1-2 (ureg.): sådan"
+        },
+        {
+            "Front": "τόµος",
+            "Back": " sb. 2 m.: snit"
+        },
+        {
+            "Front": "τόνος",
+            "Back": " sb. 2 m.: spænding"
+        },
+        {
+            "Front": "τόξον",
+            "Back": " sb. 2 n.: bue"
+        },
+        {
+            "Front": "τόπος",
+            "Back": " sb. 2 m.: sted"
+        },
+        {
+            "Front": "τοσοῦτος",
+            "Back": " pron. 1-2 (ureg.): så stor"
+        },
+        {
+            "Front": "τότε",
+            "Back": " adv.: dengang"
+        },
+        {
+            "Front": "τουτ-: : se οὗτος"
+        },
+        {
+            "Front": "τραῦµα",
+            "Back": " sb. 3 n.: sår"
+        },
+        {
+            "Front": "τραχύς",
+            "Back": " adj. 3: hård"
+        },
+        {
+            "Front": "τρεῖς",
+            "Back": " num. adj. 3: tre"
+        },
+        {
+            "Front": "τρέπω",
+            "Back": " vb.: vender"
+        },
+        {
+            "Front": "τρέφω",
+            "Back": " vb.: nærer"
+        },
+        {
+            "Front": "τρέχω",
+            "Back": " vb. ureg.: løber"
+        },
+        {
+            "Front": "τριάκοντα",
+            "Back": " num. indekl.: tredive"
+        },
+        {
+            "Front": "τρίτος",
+            "Back": " num. adj. 1-2: tredje"
+        },
+        {
+            "Front": "τρόπος",
+            "Back": " sb. 2 m.: vending"
+        },
+        {
+            "Front": "τροφή",
+            "Back": " sb. 1 f.: føde"
+        },
+        {
+            "Front": "τύγχάνω",
+            "Back": " vb.: er tilfældigvis"
+        },
+        {
+            "Front": "τύπος",
+            "Back": " sb. 2 m.: slag"
+        },
+        {
+            "Front": "τύπτω",
+            "Back": " vb.: slår"
+        },
+        {
+            "Front": "τύραννος",
+            "Back": " sb. 2 m.: tyran"
+        },
+        {
+            "Front": "τύχη",
+            "Back": " sb. 1 f.: tilfælde"
+        }
+    ],
+    "Υ": [
+        {
+            "Front": "ὑβρίζω",
+            "Back": " vb.: øver vold"
+        },
+        {
+            "Front": "ὕβρις",
+            "Back": " sb. 3 f.: vold"
+        },
+        {
+            "Front": "ὑβριστής",
+            "Back": " sb. 1 m.: voldsmand"
+        },
+        {
+            "Front": "ὑγιαίνω",
+            "Back": " vb.: er rask"
+        },
+        {
+            "Front": "ὑγίεια",
+            "Back": " sb. 1 f.: sundhed"
+        },
+        {
+            "Front": "ὑγρός",
+            "Back": " adj. 1-2: våd"
+        },
+        {
+            "Front": "ὕδωρ",
+            "Back": " sb. 3 n.: vand"
+        },
+        {
+            "Front": "ὑιός",
+            "Back": " sb. 2 m.: søn"
+        },
+        {
+            "Front": "ὕλη",
+            "Back": " sb. 1 f.: materiale, brænde"
+        },
+        {
+            "Front": "ὑµεῖς",
+            "Back": " pron.: I"
+        },
+        {
+            "Front": "ὑπέρ",
+            "Back": " præp. m. akk.: op over"
+        },
+        {
+            "Front": "ὑπέρ",
+            "Back": " præp. m. gen.: oven over"
+        },
+        {
+            "Front": "ὑπηρετέω",
+            "Back": " vb.: tjener"
+        },
+        {
+            "Front": "ὑπηρέτης",
+            "Back": " sb. 1 m.: tjener"
+        },
+        {
+            "Front": "ὑπισχνέοµαι",
+            "Back": " vb.: lover"
+        },
+        {
+            "Front": "ὕπνος",
+            "Back": " sb. 2 m.: søvn"
+        },
+        {
+            "Front": "ὑπό",
+            "Back": " præp. m. gen.: under; af [agens]"
+        },
+        {
+            "Front": "ὑπό",
+            "Back": " præp. m. akk.: ind under"
+        },
+        {
+            "Front": "ὑπό",
+            "Back": " præp. m. dat.: nedenfor"
+        },
+        {
+            "Front": "ὕστερος",
+            "Back": " adj. 1-2: senere"
+        },
+        {
+            "Front": "ὑψηλός",
+            "Back": " adj. 1-2: højre"
+        }
+    ],
+    "Φ": [
+        {
+            "Front": "φαίνω",
+            "Back": " vb.: viser; (med.) viser mig, synes"
+        },
+        {
+            "Front": "φανηρός",
+            "Back": " adj. 1-2: synlig"
+        },
+        {
+            "Front": "φάρµακον",
+            "Back": " sb. 2 n.: medicin; gift"
+        },
+        {
+            "Front": "φάσκω",
+            "Back": " vb.: påstår"
+        },
+        {
+            "Front": "φαῦλος",
+            "Back": " adj. 1-2: ringe"
+        },
+        {
+            "Front": "φείδοµαι",
+            "Back": " vb.: sparer"
+        },
+        {
+            "Front": "φέρω",
+            "Back": " vb. ureg.: bærer"
+        },
+        {
+            "Front": "φεύγω",
+            "Back": " vb.: flygter"
+        },
+        {
+            "Front": "φηµί",
+            "Back": " vb. ureg.: siger"
+        },
+        {
+            "Front": "φθάνω",
+            "Back": " vb.: kommer først"
+        },
+        {
+            "Front": "φθείρω",
+            "Back": " vb.: ødelægger"
+        },
+        {
+            "Front": "φθονέω",
+            "Back": " vb.: misunder"
+        },
+        {
+            "Front": "φθόνος",
+            "Back": " sb. 2 m.: misundelse"
+        },
+        {
+            "Front": "φιλέω",
+            "Back": " vb.: elsker, kysser"
+        },
+        {
+            "Front": "φιλία",
+            "Back": " sb. 1 f.: venskab"
+        },
+        {
+            "Front": "φίλος",
+            "Back": " adj. 1-2: ven"
+        },
+        {
+            "Front": "φοβέοµαι",
+            "Back": " vb.: frygter"
+        },
+        {
+            "Front": "φοβερός",
+            "Back": " adj. 1-2: frygtelig"
+        },
+        {
+            "Front": "φόβος",
+            "Back": " sb. 2 m.: frygt"
+        },
+        {
+            "Front": "φοιτάω",
+            "Back": " vb.: besøger (ofte)"
+        },
+        {
+            "Front": "φονεύς",
+            "Back": " sb. 3 m.: morder"
+        },
+        {
+            "Front": "φονέω",
+            "Back": " vb.: dræber"
+        },
+        {
+            "Front": "φόνος",
+            "Back": " sb. 2 m.: drab"
+        },
+        {
+            "Front": "φορέω",
+            "Back": " vb.: bærer"
+        },
+        {
+            "Front": "φόρος",
+            "Back": " sb. 2 m.: afgift"
+        },
+        {
+            "Front": "φράζω",
+            "Back": " vb.: udpeger"
+        },
+        {
+            "Front": "φρονέω",
+            "Back": " vb.: tænker"
+        },
+        {
+            "Front": "φρόνηµα",
+            "Back": " sb. 3 n.: tanke"
+        },
+        {
+            "Front": "φρόνιµος",
+            "Back": " adj. 1-2: tænksom"
+        },
+        {
+            "Front": "φροντίζω",
+            "Back": " vb.: tænker"
+        },
+        {
+            "Front": "φυγάς",
+            "Back": " sb. 3 m./f.: flygtning"
+        },
+        {
+            "Front": "φυγή",
+            "Back": " sb. 1 f.: flugt"
+        },
+        {
+            "Front": "φυλακή",
+            "Back": " sb. 1 f.: bevogtning"
+        },
+        {
+            "Front": "φύλαξ",
+            "Back": " sb. 3 m.: vogter"
+        },
+        {
+            "Front": "φυλάττω",
+            "Back": " vb.: vogter"
+        },
+        {
+            "Front": "φύσις",
+            "Back": " sb. 3 f.: natur"
+        },
+        {
+            "Front": "φυτόν",
+            "Back": " sb. 2 n.: plante"
+        },
+        {
+            "Front": "φύω",
+            "Back": " vb.: lader gro"
+        },
+        {
+            "Front": "φωνέω",
+            "Back": " vb.: giver lyd"
+        },
+        {
+            "Front": "φωνή",
+            "Back": " sb. 1 f.: stemme"
+        }
+    ],
+    "Χ": [
+        {
+            "Front": "χαίρω",
+            "Back": " vb.: er glad"
+        },
+        {
+            "Front": "χαλεπός",
+            "Back": " adj. 1-2: vanskelig"
+        },
+        {
+            "Front": "χαλκός",
+            "Back": " sb. 2 m.: bronze"
+        },
+        {
+            "Front": "χάρις",
+            "Back": " sb. 3 f.: glæde, taknemmelighed"
+        },
+        {
+            "Front": "χειµών",
+            "Back": " sb. 3 m.: vinter"
+        },
+        {
+            "Front": "χείρ",
+            "Back": " sb. 3 f.: hånd"
+        },
+        {
+            "Front": "χείρων",
+            "Back": " adj. 3: ringere"
+        },
+        {
+            "Front": "χίλιοι",
+            "Back": " num. adj. 1-2: tusind"
+        },
+        {
+            "Front": "χορός",
+            "Back": " sb. 2 m.: dansegruppe"
+        },
+        {
+            "Front": "χράοµαι",
+            "Back": " vb.: bruger"
+        },
+        {
+            "Front": "χρή",
+            "Back": " vb.: det er nødvendigt"
+        },
+        {
+            "Front": "χρήµατα",
+            "Back": " sb. 3 n. (plur.): penge"
+        },
+        {
+            "Front": "χρόνος",
+            "Back": " sb. 2 m.: tid"
+        },
+        {
+            "Front": "χρυσός",
+            "Back": " sb. 2 m.: guld"
+        },
+        {
+            "Front": "χῶρα",
+            "Back": " sb. 1 f.: jord(stykke)"
+        },
+        {
+            "Front": "χωρίς",
+            "Back": " præp. m. gen.: uden"
+        }
+    ],
+    "Ψ": [
+        {
+            "Front": "ψέγω",
+            "Back": " vb.: kritiserer"
+        },
+        {
+            "Front": "ψευδής",
+            "Back": " adj. 3: FALSK"
+        },
+        {
+            "Front": "ψεύδοµαι",
+            "Back": " vb.: lyver"
+        },
+        {
+            "Front": "ψεῦδος",
+            "Back": " sb. 3 n.: løgn"
+        },
+        {
+            "Front": "ψιλός",
+            "Back": " adj. 1-2: nøgen"
+        },
+        {
+            "Front": "ψόγος",
+            "Back": " sb. 2 m.: kritik"
+        },
+        {
+            "Front": "ψυχή",
+            "Back": " sb. 1 f.: sjæl, liv(sprincip)"
+        }
+    ],
+    "Ω": [
+        {
+            "Front": "ὦ",
+            "Back": " interjektion: o (bruges ved henvendelse)"
+        },
+        {
+            "Front": "ὧδε",
+            "Back": " adv.: således"
+        },
+        {
+            "Front": "ὠθέω",
+            "Back": " vb.: støder til"
+        },
+        {
+            "Front": "ὠνέοµαι",
+            "Back": " vb.: køber"
+        },
+        {
+            "Front": "ὥρα",
+            "Back": " sb. 1 f.: time"
+        },
+        {
+            "Front": "ὡς",
+            "Back": " konj.: som, ligesom; da; at"
+        },
+        {
+            "Front": "ὡς",
+            "Back": " præp. m. akk.: hen til"
+        },
+        {
+            "Front": "ὡσαύτως",
+            "Back": " adv.: ligesådan"
+        },
+        {
+            "Front": "ὥσπερ",
+            "Back": " konj.: sådan som"
+        },
+        {
+            "Front": "ὥστε",
+            "Back": " konj. $: så at"
+        },
+        {
+            "Front": "ὠφέλεια",
+            "Back": " sb. 1 f.: nytte"
+        },
+        {
+            "Front": "ὠφελέω",
+            "Back": " vb.: gavner"
+        },
+        {
+            "Front": "ὠφέλιµος",
+            "Back": " adj. 1-2: gavnlig"
+        }
+    ]
+}

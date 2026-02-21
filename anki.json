@@ -1,0 +1,86 @@
+[
+    {
+        "Front": "διά",
+        "Back": "akk - på grund af; gen - gennem, ved hjælp af, (om tid:) efter"
+    },
+    {
+        "Front": "εἰς/ἐς",
+        "Back": "akk - til, ind i, indtil"
+    },
+    {
+        "Front": "κατά",
+        "Back": "akk - hen imod, langs med, ad, ifølge, med hensyn til, (om tid:) på den tid; gen - ned ad, (juridisk:) imod"
+    },
+    {
+        "Front": "μετά",
+        "Back": "akk - efter; gen - sammen med"
+    },
+    {
+        "Front": "παρά",
+        "Back": "langs med, ved, hen til, i forhold til, i modstrid med; gen - fra, af; dat - ved, hos, henne hos"
+    },
+    {
+        "Front": "περί",
+        "Back": "akk - rundt om; gen - vedrørende; dat - rundt på (et område)"
+    },
+    {
+        "Front": "πρό",
+        "Back": "gen - foran, før, fremfor"
+    },
+    {
+        "Front": "πρός",
+        "Back": "akk - hen til, over for, i forhold til; gen - på (nogens side); dat - hos, ved, foruden"
+    },
+    {
+        "Front": "σύν/ξύν",
+        "Back": "dat - sammen med"
+    },
+    {
+        "Front": "ἀμφί",
+        "Back": "akk - om, omkring, cirka"
+    },
+    {
+        "Front": "ἀνά",
+        "Back": "akk - op ad, op på, hen over"
+    },
+    {
+        "Front": "ἀντί",
+        "Back": "gen - i stedet for"
+    },
+    {
+        "Front": "ἀπό",
+        "Back": "gen - væk fra"
+    },
+    {
+        "Front": "ἅμα",
+        "Back": "dat - sammen med"
+    },
+    {
+        "Front": "ἐκ/ἐξ",
+        "Back": "gen - ud af, ud fra"
+    },
+    {
+        "Front": "ἐν",
+        "Back": "dat - i, på, blandt"
+    },
+    {
+        "Front": "ἐπί",
+        "Back": "akk - op på, hen imod (ofte i fjendtlig betydning); gen - på, ved, (om tid:) under, i løbet af; dat - ved, efter, på, i anledning af, for (penge)"
+    },
+    {
+        "Front": "ἕνεκα",
+        "Back": "gen - på grund af"
+    },
+    {
+        "Front": "ὑπέρ",
+        "Back": "akk - ud over, over; gen - oven over, til bedste for, i stedet for"
+    },
+    {
+        "Front": "ὑπό",
+        "Back": "akk - ind under, (om tid:) hen imod; gen - under, på grund af, samtidigt med, (agens); dat - nedenfor"
+    },
+    {
+        "Front": "ὡς",
+        "Back": "akk - til, hen hos (kun om personer)"
+    }
+]
