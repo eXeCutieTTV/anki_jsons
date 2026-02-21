@@ -1,0 +1,21 @@
+:root {
+    --link: #f00;
+    --link_visited: #f50;
+    --link_hover: #f50;
+}
+
+a:link {
+    color: var(--link);
+    text-decoration: none;
+}
+
+a:visited,
+a:active {
+    color: var(--link_visited);
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--link_hover);
+    text-decoration: underline;
+}
