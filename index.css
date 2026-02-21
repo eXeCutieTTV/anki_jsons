@@ -7,18 +7,39 @@
 }
 
 .left {
-    flex: .2;
+    flex: .1;
 }
 
 .right {
-    flex: auto
+    flex: .9;
+    min-width: 0;
 }
 
 .gallery {
     background-color: black;
+    display: flex;
+    gap: 15px;
+    width: 100%;
+    max-width: 100%;
+    overflow-x: auto;
+    overflow-y: hidden;
+    margin-bottom: 10px;
 }
 
 .entry {
     background-color: grey;
-    width: min-content;
+    width: 150px;
+    flex: 0 0 150px;
+    height: 150px;
+    border-radius: 15px;
+    align-content: center;
+    text-align: center;
+}
+
+.Χιλιας {
+    display: block;
+    font-size: 50px;
+    height: 100%;
+    align-content: center;
+    text-align: center;
 }
