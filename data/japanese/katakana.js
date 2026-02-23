@@ -22,7 +22,7 @@ function katakana() {
             //console.log(tds[j])
             const result = {
                 Kana: tds[j].querySelectorAll("span")[1].innerText.replace(/[\[\]]/g, "").trim(),
-                Reading: tds[j].querySelectorAll("span")[2].innerText.trim(),
+                Reading: tds[j].querySelectorAll("span")[2].innerText.trim().slice(0,1).toUpperCase()+tds[j].querySelectorAll("span")[2].innerText.trim().slice(1).toLowerCase(),
                 Strokes: ""
             }
             temp.push(result);

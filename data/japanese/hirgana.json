@@ -1,266 +1,356 @@
 [
     {
-        "hiragana": "あ",
-        "reading": "a"
+        "Kana": "あ",
+        "Reading": "a",
+        "Strokes": ""
     },
     {
-        "hiragana": "い",
-        "reading": "i"
+        "Kana": "い",
+        "Reading": "i",
+        "Strokes": ""
     },
     {
-        "hiragana": "う",
-        "reading": "u"
+        "Kana": "う",
+        "Reading": "u",
+        "Strokes": ""
     },
     {
-        "hiragana": "え",
-        "reading": "e"
+        "Kana": "え",
+        "Reading": "e",
+        "Strokes": ""
     },
     {
-        "hiragana": "お",
-        "reading": "o"
+        "Kana": "お",
+        "Reading": "o",
+        "Strokes": ""
     },
     {
-        "hiragana": "か",
-        "reading": "ka"
+        "Kana": "か",
+        "Reading": "ka",
+        "Strokes": ""
     },
     {
-        "hiragana": "き",
-        "reading": "ki"
+        "Kana": "き",
+        "Reading": "ki",
+        "Strokes": ""
     },
     {
-        "hiragana": "く",
-        "reading": "ku"
+        "Kana": "く",
+        "Reading": "ku",
+        "Strokes": ""
     },
     {
-        "hiragana": "け",
-        "reading": "ke"
+        "Kana": "け",
+        "Reading": "ke",
+        "Strokes": ""
     },
     {
-        "hiragana": "こ",
-        "reading": "ko"
+        "Kana": "こ",
+        "Reading": "ko",
+        "Strokes": ""
     },
     {
-        "hiragana": "さ",
-        "reading": "sa"
+        "Kana": "さ",
+        "Reading": "sa",
+        "Strokes": ""
     },
     {
-        "hiragana": "し",
-        "reading": "shi"
+        "Kana": "し",
+        "Reading": "shi",
+        "Strokes": ""
     },
     {
-        "hiragana": "す",
-        "reading": "su"
+        "Kana": "す",
+        "Reading": "su",
+        "Strokes": ""
     },
     {
-        "hiragana": "せ",
-        "reading": "se"
+        "Kana": "せ",
+        "Reading": "se",
+        "Strokes": ""
     },
     {
-        "hiragana": "そ",
-        "reading": "so"
+        "Kana": "そ",
+        "Reading": "so",
+        "Strokes": ""
     },
     {
-        "hiragana": "た",
-        "reading": "ta"
+        "Kana": "た",
+        "Reading": "ta",
+        "Strokes": ""
     },
     {
-        "hiragana": "ち",
-        "reading": "chi"
+        "Kana": "ち",
+        "Reading": "chi",
+        "Strokes": ""
     },
     {
-        "hiragana": "つ",
-        "reading": "tsu"
+        "Kana": "つ",
+        "Reading": "tsu",
+        "Strokes": ""
     },
     {
-        "hiragana": "て",
-        "reading": "te"
+        "Kana": "て",
+        "Reading": "te",
+        "Strokes": ""
     },
     {
-        "hiragana": "と",
-        "reading": "to"
+        "Kana": "と",
+        "Reading": "to",
+        "Strokes": ""
     },
     {
-        "hiragana": "な",
-        "reading": "na"
+        "Kana": "な",
+        "Reading": "na",
+        "Strokes": ""
     },
     {
-        "hiragana": "に",
-        "reading": "ni"
+        "Kana": "に",
+        "Reading": "ni",
+        "Strokes": ""
     },
     {
-        "hiragana": "ぬ",
-        "reading": "nu"
+        "Kana": "ぬ",
+        "Reading": "nu",
+        "Strokes": ""
     },
     {
-        "hiragana": "ね",
-        "reading": "ne"
+        "Kana": "ね",
+        "Reading": "ne",
+        "Strokes": ""
     },
     {
-        "hiragana": "の",
-        "reading": "no"
+        "Kana": "の",
+        "Reading": "no",
+        "Strokes": ""
     },
     {
-        "hiragana": "は",
-        "reading": "ha"
+        "Kana": "は",
+        "Reading": "ha",
+        "Strokes": ""
     },
     {
-        "hiragana": "ひ",
-        "reading": "hi"
+        "Kana": "ひ",
+        "Reading": "hi",
+        "Strokes": ""
     },
     {
-        "hiragana": "ふ",
-        "reading": "fu"
+        "Kana": "ふ",
+        "Reading": "fu",
+        "Strokes": ""
     },
     {
-        "hiragana": "へ",
-        "reading": "he"
+        "Kana": "へ",
+        "Reading": "he",
+        "Strokes": ""
     },
     {
-        "hiragana": "ほ",
-        "reading": "ho"
+        "Kana": "ほ",
+        "Reading": "ho",
+        "Strokes": ""
     },
     {
-        "hiragana": "ま",
-        "reading": "ma"
+        "Kana": "ま",
+        "Reading": "ma",
+        "Strokes": ""
     },
     {
-        "hiragana": "み",
-        "reading": "mi"
+        "Kana": "み",
+        "Reading": "mi",
+        "Strokes": ""
     },
     {
-        "hiragana": "む",
-        "reading": "mu"
+        "Kana": "む",
+        "Reading": "mu",
+        "Strokes": ""
     },
     {
-        "hiragana": "め",
-        "reading": "me"
+        "Kana": "め",
+        "Reading": "me",
+        "Strokes": ""
     },
     {
-        "hiragana": "も",
-        "reading": "mo"
+        "Kana": "も",
+        "Reading": "mo",
+        "Strokes": ""
     },
     {
-        "hiragana": "や",
-        "reading": "ya"
+        "Kana": "や",
+        "Reading": "ya",
+        "Strokes": ""
     },
     {
-        "hiragana": "ゆ",
-        "reading": "yu"
+        "Kana": "𛀆",
+        "Reading": "i",
+        "Strokes": ""
     },
     {
-        "hiragana": "よ",
-        "reading": "yo"
+        "Kana": "ゆ",
+        "Reading": "yu",
+        "Strokes": ""
     },
     {
-        "hiragana": "ら",
-        "reading": "ra"
+        "Kana": "𛀁",
+        "Reading": "e",
+        "Strokes": ""
     },
     {
-        "hiragana": "り",
-        "reading": "ri"
+        "Kana": "よ",
+        "Reading": "yo",
+        "Strokes": ""
     },
     {
-        "hiragana": "る",
-        "reading": "ru"
+        "Kana": "ら",
+        "Reading": "ra",
+        "Strokes": ""
     },
     {
-        "hiragana": "れ",
-        "reading": "re"
+        "Kana": "り",
+        "Reading": "ri",
+        "Strokes": ""
     },
     {
-        "hiragana": "ろ",
-        "reading": "ro"
+        "Kana": "る",
+        "Reading": "ru",
+        "Strokes": ""
     },
     {
-        "hiragana": "わ",
-        "reading": "wa"
+        "Kana": "れ",
+        "Reading": "re",
+        "Strokes": ""
     },
     {
-        "hiragana": "を",
-        "reading": "wo"
+        "Kana": "ろ",
+        "Reading": "ro",
+        "Strokes": ""
     },
     {
-        "hiragana": "が",
-        "reading": "ga"
+        "Kana": "わ",
+        "Reading": "wa",
+        "Strokes": ""
     },
     {
-        "hiragana": "ぎ",
-        "reading": "gi"
+        "Kana": "ゐ",
+        "Reading": "i",
+        "Strokes": ""
     },
     {
-        "hiragana": "ぐ",
-        "reading": "gu"
+        "Kana": "𛄟",
+        "Reading": "u",
+        "Strokes": ""
     },
     {
-        "hiragana": "げ",
-        "reading": "ge"
+        "Kana": "ゑ",
+        "Reading": "e",
+        "Strokes": ""
     },
     {
-        "hiragana": "ご",
-        "reading": "go"
+        "Kana": "を",
+        "Reading": "o<sup",
+        "Strokes": ""
     },
     {
-        "hiragana": "ざ",
-        "reading": "za"
+        "Kana": "が",
+        "Reading": "Ga",
+        "Strokes": ""
     },
     {
-        "hiragana": "じ",
-        "reading": "ji"
+        "Kana": "ぎ",
+        "Reading": "Gi",
+        "Strokes": ""
     },
     {
-        "hiragana": "ず",
-        "reading": "zu"
+        "Kana": "ぐ",
+        "Reading": "Gu",
+        "Strokes": ""
     },
     {
-        "hiragana": "ぜ",
-        "reading": "ze"
+        "Kana": "げ",
+        "Reading": "Ge",
+        "Strokes": ""
     },
     {
-        "hiragana": "ぞ",
-        "reading": "zo"
+        "Kana": "ご",
+        "Reading": "Go",
+        "Strokes": ""
     },
     {
-        "hiragana": "だ",
-        "reading": "da"
+        "Kana": "ざ",
+        "Reading": "Za",
+        "Strokes": ""
     },
     {
-        "hiragana": "ぢ",
-        "reading": "ji"
+        "Kana": "じ",
+        "Reading": "Ji",
+        "Strokes": ""
     },
     {
-        "hiragana": "づ",
-        "reading": "zu"
+        "Kana": "ず",
+        "Reading": "Zu",
+        "Strokes": ""
     },
     {
-        "hiragana": "で",
-        "reading": "de"
+        "Kana": "ぜ",
+        "Reading": "Ze",
+        "Strokes": ""
     },
     {
-        "hiragana": "ど",
-        "reading": "do"
+        "Kana": "ぞ",
+        "Reading": "Zo",
+        "Strokes": ""
     },
     {
-        "hiragana": "ば",
-        "reading": "ba"
+        "Kana": "だ",
+        "Reading": "Da",
+        "Strokes": ""
     },
     {
-        "hiragana": "び",
-        "reading": "bi"
+        "Kana": "ぢ",
+        "Reading": "Ji",
+        "Strokes": ""
     },
     {
-        "hiragana": "ぶ",
-        "reading": "bu"
+        "Kana": "づ",
+        "Reading": "Zu",
+        "Strokes": ""
     },
     {
-        "hiragana": "べ",
-        "reading": "be"
+        "Kana": "で",
+        "Reading": "De",
+        "Strokes": ""
     },
     {
-        "hiragana": "ぼ",
-        "reading": "bo"
+        "Kana": "ど",
+        "Reading": "Do",
+        "Strokes": ""
+    },
+    {
+        "Kana": "ば",
+        "Reading": "Ba",
+        "Strokes": ""
+    },
+    {
+        "Kana": "び",
+        "Reading": "Bi",
+        "Strokes": ""
+    },
+    {
+        "Kana": "ぶ",
+        "Reading": "Bu",
+        "Strokes": ""
+    },
+    {
+        "Kana": "べ",
+        "Reading": "Be",
+        "Strokes": ""
+    },
+    {
+        "Kana": "ぼ",
+        "Reading": "Bo",
+        "Strokes": ""
     },
     {
         "hiragana": "ん",
-        "reading": "n"
+        "reading": "N"
     }
 ]

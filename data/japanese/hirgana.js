@@ -8,8 +8,9 @@ function hiragana() {
         for (let j = 0; j < 5; j++) {
             //console.log(tds[j])
             const result = {
-                hiragana: tds[j].querySelector("a").innerText,
-                reading: tds[j].innerHTML.match(/\<br\> [^ ]+/)[0].replace("<br> ", "").replace("<b>", "").replace("</b>", "")
+                Kana: tds[j].querySelector("a").innerText,
+                Reading: tds[j].innerHTML.match(/\<br\> [^ ]+/)[0].replace("<br> ", "").replace("<b>", "").replace("</b>", ""),
+                Strokes: ""
             }
             temp.push(result);
         }
@@ -20,8 +21,9 @@ function hiragana() {
         for (let j = 0; j < 5; j++) {
             //console.log(tds[j])
             const result = {
-                hiragana: tds[j].querySelector("a").innerText,
-                reading: tds[j].innerHTML.match(/\<br\> [^ ]+/)[0].replace("<br> ", "").replace("<b>", "").replace("</b>", "")
+                Kana: tds[j].querySelector("a").innerText,
+                Reading: tds[j].innerHTML.match(/\<br\> [^ ]+/)[0].replace("<br> ", "").replace("<b>", "").replace("</b>", "").slice(0, 1).toUpperCase() + tds[j].innerHTML.match(/\<br\> [^ ]+/)[0].replace("<br> ", "").replace("<b>", "").replace("</b>", "").slice(1).toLocaleLowerCase(),
+                Strokes: ""
             }
             temp.push(result);
         }
