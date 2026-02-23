@@ -1,3 +1,268 @@
 [
-    {}
+    {
+        "Conjunction": "ὠς",
+        "Translation": "som, sådan som",
+        "Type": "Komparativ",
+        "Modus": "Indikativ",
+        "Note": ""
+    },
+    {
+        "Conjunction": "ὥσπερ",
+        "Translation": "netop som",
+        "Type": "Komparativ",
+        "Modus": "Indikativ",
+        "Note": ""
+    },
+    {
+        "Conjunction": "ὅτι",
+        "Translation": "fordi",
+        "Type": "Kausal",
+        "Modus": "Indikativ",
+        "Note": ""
+    },
+    {
+        "Conjunction": "διότι",
+        "Translation": "fordi",
+        "Type": "Kausal",
+        "Modus": "Indikativ",
+        "Note": ""
+    },
+    {
+        "Conjunction": "ὠς",
+        "Translation": "da, eftersom",
+        "Type": "Kausal",
+        "Modus": "Indikativ",
+        "Note": ""
+    },
+    {
+        "Conjunction": "ἐπεί",
+        "Translation": "da, eftersom",
+        "Type": "Kausal",
+        "Modus": "Indikativ",
+        "Note": ""
+    },
+    {
+        "Conjunction": "ἑπειδεή",
+        "Translation": "da, eftersom",
+        "Type": "Kausal",
+        "Modus": "Indikativ",
+        "Note": ""
+    },
+    {
+        "Conjunction": "ὥστε",
+        "Translation": "sådan at, og derfor",
+        "Type": "Konsekutiv",
+        "Modus": "Indikativ & Infinitiv",
+        "Note": "se også 9.1 i ΒΑΣΙΣ; om ὥστε med infinitiv se 16.2.3 i ΒΑΣΙΣ"
+    },
+    {
+        "Conjunction": "ἵνα",
+        "Translation": "for at",
+        "Type": "Final",
+        "Modus": "Konjunktiv (& futurum, se 14.7.1 i ΒΑΣΙΣ)",
+        "Note": ""
+    },
+    {
+        "Conjunction": "ὡς",
+        "Translation": "for at",
+        "Type": "Final",
+        "Modus": "Konjunktiv (& futurum, se 14.7.1 i ΒΑΣΙΣ)",
+        "Note": ""
+    },
+    {
+        "Conjunction": "ὅπως",
+        "Translation": "for at",
+        "Type": "Final",
+        "Modus": "Konjunktiv (& futurum, se 14.7.1 i ΒΑΣΙΣ)",
+        "Note": ""
+    },
+    {
+        "Conjunction": "μή",
+        "Translation": "for at ikke",
+        "Type": "Final",
+        "Modus": "Konjunktiv (& futurum, se 14.7.1 i ΒΑΣΙΣ)",
+        "Note": ""
+    },
+    {
+        "Conjunction": "ἵνα μή",
+        "Translation": "for at ikke",
+        "Type": "Final",
+        "Modus": "Konjunktiv (& futurum, se 14.7.1 i ΒΑΣΙΣ)",
+        "Note": ""
+    },
+    {
+        "Conjunction": "ὅπως μή",
+        "Translation": "for at ikke",
+        "Type": "Final",
+        "Modus": "Konjunktiv (& futurum, se 14.7.1 i ΒΑΣΙΣ)",
+        "Note": ""
+    },
+    {
+        "Conjunction": "εἰ",
+        "Translation": "hvis",
+        "Type": "Konditional",
+        "Modus": "se 15 i ΒΑΣΙΣ",
+        "Note": ""
+    },
+    {
+        "Conjunction": "ἐάν",
+        "Translation": "hvis",
+        "Type": "Konditional",
+        "Modus": "se 15 i ΒΑΣΙΣ",
+        "Note": ""
+    },
+    {
+        "Conjunction": "ἄν",
+        "Translation": "hvis",
+        "Type": "Konditional",
+        "Modus": "se 15 i ΒΑΣΙΣ",
+        "Note": ""
+    },
+    {
+        "Conjunction": "ἤν",
+        "Translation": "hvis",
+        "Type": "Konditional",
+        "Modus": "se 15 i ΒΑΣΙΣ",
+        "Note": ""
+    },
+    {
+        "Conjunction": "εἰ μή",
+        "Translation": "hvis ikke",
+        "Type": "Konditional",
+        "Modus": "se 15 i ΒΑΣΙΣ",
+        "Note": ""
+    },
+    {
+        "Conjunction": "καί εἰ",
+        "Translation": "selv om",
+        "Type": "Koncessiv",
+        "Modus": "Indikativ & Konjunktiv",
+        "Note": ""
+    },
+    {
+        "Conjunction": "καί εἄν -> κἄν",
+        "Translation": "selv om",
+        "Type": "Koncessiv",
+        "Modus": "Indikativ & Konjunktiv",
+        "Note": ""
+    },
+    {
+        "Conjunction": "ὅτε",
+        "Translation": "da, når",
+        "Type": "Temporal",
+        "Modus": "Indikativ (ἄν + Konjunktiv, se 15.5 i ΒΑΣΙΣ)",
+        "Note": ""
+    },
+    {
+        "Conjunction": "ὁπότε",
+        "Translation": "da, når",
+        "Type": "Temporal",
+        "Modus": "Indikativ (ἄν + Konjunktiv, se 15.5 i ΒΑΣΙΣ)",
+        "Note": ""
+    },
+    {
+        "Conjunction": "ἡενικα",
+        "Translation": "da, når",
+        "Type": "Temporal",
+        "Modus": "Indikativ (ἄν + Konjunktiv, se 15.5 i ΒΑΣΙΣ)",
+        "Note": ""
+    },
+    {
+        "Conjunction": "ἐπεί",
+        "Translation": "da, når",
+        "Type": "Temporal",
+        "Modus": "Indikativ (ἄν + Konjunktiv, se 15.5 i ΒΑΣΙΣ)",
+        "Note": ""
+    },
+    {
+        "Conjunction": "ἐπειδή",
+        "Translation": "da, når",
+        "Type": "Temporal",
+        "Modus": "Indikativ (ἄν + Konjunktiv, se 15.5 i ΒΑΣΙΣ)",
+        "Note": ""
+    },
+    {
+        "Conjunction": "ὡς",
+        "Translation": "da, når",
+        "Type": "Temporal",
+        "Modus": "Indikativ (ἄν + Konjunktiv, se 15.5 i ΒΑΣΙΣ)",
+        "Note": ""
+    },
+    {
+        "Conjunction": "πρίν",
+        "Translation": "førend",
+        "Type": "Temporal",
+        "Modus": "Indikativ (ἄν + Konjunktiv, se 15.5 i ΒΑΣΙΣ)",
+        "Note": ""
+    },
+    {
+        "Conjunction": "ἕως",
+        "Translation": "indtil",
+        "Type": "Temporal",
+        "Modus": "Indikativ (ἄν + Konjunktiv, se 15.5 i ΒΑΣΙΣ)",
+        "Note": ""
+    },
+    {
+        "Conjunction": "μέχρι",
+        "Translation": "indtil",
+        "Type": "Temporal",
+        "Modus": "Indikativ (ἄν + Konjunktiv, se 15.5 i ΒΑΣΙΣ)",
+        "Note": "også med infinitiv; efter negativ, med ἄν + konjunktiv se 16.2.3 i ΒΑΣΙΣ(hører denne note til her?)"
+    },
+    {
+        "Conjunction": "εἰ",
+        "Translation": "om",
+        "Type": "Interrogativ",
+        "Modus": "Indikativ",
+        "Note": "se 11.16 i ΒΑΣΙΣ, om Substantiviske ledsætninger"
+    },
+    {
+        "Conjunction": "πότερον/πότερα ... ἤ",
+        "Translation": "om ... eller",
+        "Type": "Interrogativ",
+        "Modus": "Indikativ",
+        "Note": "se 11.16 i ΒΑΣΙΣ, om Substantiviske ledsætninger"
+    },
+    {
+        "Conjunction": "πῶς",
+        "Translation": "hvordan",
+        "Type": "Interrogativ",
+        "Modus": "Indikativ",
+        "Note": "se 11.16 i ΒΑΣΙΣ, om Substantiviske ledsætninger"
+    },
+    {
+        "Conjunction": "διὰ τί",
+        "Translation": "hvorfor",
+        "Type": "Interrogativ",
+        "Modus": "Indikativ",
+        "Note": "se 11.16 i ΒΑΣΙΣ, om Substantiviske ledsætninger"
+    },
+    {
+        "Conjunction": "ὅτι",
+        "Translation": "at",
+        "Type": "Deklarativ",
+        "Modus": "Indikativ",
+        "Note": "se 11.16 i ΒΑΣΙΣ, om Substantiviske ledsætninger"
+    },
+    {
+        "Conjunction": "ὡς",
+        "Translation": "at",
+        "Type": "Deklarativ",
+        "Modus": "Indikativ",
+        "Note": "se 11.16 i ΒΑΣΙΣ, om Substantiviske ledsætninger"
+    },
+    {
+        "Conjunction": "ὅπως",
+        "Translation": "hvordan",
+        "Type": "Deklarativ",
+        "Modus": "Indikativ",
+        "Note": "se 11.16 i ΒΑΣΙΣ, om Substantiviske ledsætninger"
+    },
+    {
+        "Conjunction": "ὅπως",
+        "Translation": "se 14.7.3 i ΒΑΣΙΣ",
+        "Type": "verba curandi, se 14.7.3 i ΒΑΣΙΣ",
+        "Modus": "Indikativ el. Futurum Indikativ",
+        "Note": "se 14.7.3 i ΒΑΣΙΣ; se 11.16 i ΒΑΣΙΣ, om Substantiviske ledsætninger"
+    }
 ]
