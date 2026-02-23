@@ -1,86 +1,128 @@
 [
     {
-        "Front": "διά",
-        "Back": "akk - på grund af; gen - gennem, ved hjælp af, (om tid:) efter"
+        "Preposition": "διά",
+        "Akkusative": "på grund af",
+        "Genitive": "gennem, ved hjælp af, (om tid:) efter",
+        "Dative": ""
     },
     {
-        "Front": "εἰς/ἐς",
-        "Back": "akk - til, ind i, indtil"
+        "Preposition": "εἰς/ἐς",
+        "Akkusative": "til, ind i, indtil",
+        "Genitive": "",
+        "Dative": ""
     },
     {
-        "Front": "κατά",
-        "Back": "akk - hen imod, langs med, ad, ifølge, med hensyn til, (om tid:) på den tid; gen - ned ad, (juridisk:) imod"
+        "Preposition": "κατά",
+        "Akkusative": "hen imod, langs med, ad, ifølge, med hensyn til, (om tid:) på den tid",
+        "Genitive": "ned ad, (juridisk:) imod",
+        "Dative": ""
     },
     {
-        "Front": "μετά",
-        "Back": "akk - efter; gen - sammen med"
+        "Preposition": "μετά",
+        "Akkusative": "efter",
+        "Genitive": "sammen med",
+        "Dative": ""
     },
     {
-        "Front": "παρά",
-        "Back": "langs med, ved, hen til, i forhold til, i modstrid med; gen - fra, af; dat - ved, hos, henne hos"
+        "Preposition": "παρά",
+        "Akkusative": "langs med, ved, hen til, i forhold til, i modstrid med",
+        "Genitive": "fra, af",
+        "Dative": "ved, hos, henne hos"
     },
     {
-        "Front": "περί",
-        "Back": "akk - rundt om; gen - vedrørende; dat - rundt på (et område)"
+        "Preposition": "περί",
+        "Akkusative": "rundt om",
+        "Genitive": "vedrørende",
+        "Dative": "rundt på (et område)"
     },
     {
-        "Front": "πρό",
-        "Back": "gen - foran, før, fremfor"
+        "Preposition": "πρό",
+        "Akkusative": "",
+        "Genitive": "foran, før, fremfor",
+        "Dative": ""
     },
     {
-        "Front": "πρός",
-        "Back": "akk - hen til, over for, i forhold til; gen - på (nogens side); dat - hos, ved, foruden"
+        "Preposition": "πρός",
+        "Akkusative": "hen til, over for, i forhold til",
+        "Genitive": "på (nogens side)",
+        "Dative": "hos, ved, foruden"
     },
     {
-        "Front": "σύν/ξύν",
-        "Back": "dat - sammen med"
+        "Preposition": "σύν/ξύν",
+        "Akkusative": "",
+        "Genitive": "",
+        "Dative": "sammen med"
     },
     {
-        "Front": "ἀμφί",
-        "Back": "akk - om, omkring, cirka"
+        "Preposition": "ἀμφί",
+        "Akkusative": "om, omkring, cirka",
+        "Genitive": "",
+        "Dative": ""
     },
     {
-        "Front": "ἀνά",
-        "Back": "akk - op ad, op på, hen over"
+        "Preposition": "ἀνά",
+        "Akkusative": "op ad, op på, hen over",
+        "Genitive": "",
+        "Dative": ""
     },
     {
-        "Front": "ἀντί",
-        "Back": "gen - i stedet for"
+        "Preposition": "ἀντί",
+        "Akkusative": "",
+        "Genitive": "i stedet for",
+        "Dative": ""
     },
     {
-        "Front": "ἀπό",
-        "Back": "gen - væk fra"
+        "Preposition": "ἀπό",
+        "Akkusative": "",
+        "Genitive": "væk fra",
+        "Dative": ""
     },
     {
-        "Front": "ἅμα",
-        "Back": "dat - sammen med"
+        "Preposition": "ἅμα",
+        "Akkusative": "",
+        "Genitive": "",
+        "Dative": "sammen med"
     },
     {
-        "Front": "ἐκ/ἐξ",
-        "Back": "gen - ud af, ud fra"
+        "Preposition": "ἐκ/ἐξ",
+        "Akkusative": "",
+        "Genitive": "ud af, ud fra",
+        "Dative": ""
     },
     {
-        "Front": "ἐν",
-        "Back": "dat - i, på, blandt"
+        "Preposition": "ἐν",
+        "Akkusative": "",
+        "Genitive": "",
+        "Dative": "i, på, blandt"
     },
     {
-        "Front": "ἐπί",
-        "Back": "akk - op på, hen imod (ofte i fjendtlig betydning); gen - på, ved, (om tid:) under, i løbet af; dat - ved, efter, på, i anledning af, for (penge)"
+        "Preposition": "ἐπί",
+        "Akkusative": "op på, hen imod (ofte i fjendtlig betydning)",
+        "Genitive": "på, ved, (om tid:) under, i løbet af",
+        "Dative": "ved, efter, på, i anledning af, for (penge)"
     },
     {
-        "Front": "ἕνεκα",
-        "Back": "gen - på grund af"
+        "Preposition": "ἕνεκα",
+        "Akkusative": "",
+        "Genitive": "på grund af",
+        "Dative": ""
     },
     {
-        "Front": "ὑπέρ",
-        "Back": "akk - ud over, over; gen - oven over, til bedste for, i stedet for"
+        "Preposition": "ὑπέρ",
+        "Akkusative": "ud over, over",
+        "Genitive": "oven over, til bedste for, i stedet for",
+        "Dative": ""
     },
     {
-        "Front": "ὑπό",
-        "Back": "akk - ind under, (om tid:) hen imod; gen - under, på grund af, samtidigt med, (agens); dat - nedenfor"
+        "Preposition": "ὑπό",
+        "Akkusative": "ind under, (om tid:) hen imod",
+        "Genitive": "under, på grund af, samtidigt med, (agens)",
+        "Dative": "nedenfor"
     },
     {
-        "Front": "ὡς",
-        "Back": "akk - til, hen hos (kun om personer)"
+        "Preposition": "ὡς",
+        "Akkusative": "til, hen hos (kun om personer)",
+        "Genitive": "",
+        "Dative": ""
     }
 ]

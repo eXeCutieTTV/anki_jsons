@@ -9,7 +9,7 @@ function hiragana() {
             //console.log(tds[j])
             const result = {
                 Kana: tds[j].querySelector("a").innerText,
-                Reading: tds[j].innerHTML.match(/\<br\> [^ ]+/)[0].replace("<br> ", "").replace("<b>", "").replace("</b>", ""),
+                Reading: tds[j].innerHTML.match(/\<br\> [^ ]+/)[0].replace("<br> ", "").replace("<b>", "").replace("</b>", "").slice(0, 1).toUpperCase() + tds[j].innerHTML.match(/\<br\> [^ ]+/)[0].replace("<br> ", "").replace("<b>", "").replace("</b>", "").slice(1).toLocaleLowerCase(),
                 Strokes: ""
             }
             temp.push(result);

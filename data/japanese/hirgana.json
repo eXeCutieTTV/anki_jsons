@@ -1,252 +1,227 @@
 [
     {
         "Kana": "あ",
-        "Reading": "a",
+        "Reading": "A",
         "Strokes": ""
     },
     {
         "Kana": "い",
-        "Reading": "i",
+        "Reading": "I",
         "Strokes": ""
     },
     {
         "Kana": "う",
-        "Reading": "u",
+        "Reading": "U",
         "Strokes": ""
     },
     {
         "Kana": "え",
-        "Reading": "e",
+        "Reading": "E",
         "Strokes": ""
     },
     {
         "Kana": "お",
-        "Reading": "o",
+        "Reading": "O",
         "Strokes": ""
     },
     {
         "Kana": "か",
-        "Reading": "ka",
+        "Reading": "Ka",
         "Strokes": ""
     },
     {
         "Kana": "き",
-        "Reading": "ki",
+        "Reading": "Ki",
         "Strokes": ""
     },
     {
         "Kana": "く",
-        "Reading": "ku",
+        "Reading": "Ku",
         "Strokes": ""
     },
     {
         "Kana": "け",
-        "Reading": "ke",
+        "Reading": "Ke",
         "Strokes": ""
     },
     {
         "Kana": "こ",
-        "Reading": "ko",
+        "Reading": "Ko",
         "Strokes": ""
     },
     {
         "Kana": "さ",
-        "Reading": "sa",
+        "Reading": "Sa",
         "Strokes": ""
     },
     {
         "Kana": "し",
-        "Reading": "shi",
+        "Reading": "Shi",
         "Strokes": ""
     },
     {
         "Kana": "す",
-        "Reading": "su",
+        "Reading": "Su",
         "Strokes": ""
     },
     {
         "Kana": "せ",
-        "Reading": "se",
+        "Reading": "Se",
         "Strokes": ""
     },
     {
         "Kana": "そ",
-        "Reading": "so",
+        "Reading": "So",
         "Strokes": ""
     },
     {
         "Kana": "た",
-        "Reading": "ta",
+        "Reading": "Ta",
         "Strokes": ""
     },
     {
         "Kana": "ち",
-        "Reading": "chi",
+        "Reading": "Chi",
         "Strokes": ""
     },
     {
         "Kana": "つ",
-        "Reading": "tsu",
+        "Reading": "Tsu",
         "Strokes": ""
     },
     {
         "Kana": "て",
-        "Reading": "te",
+        "Reading": "Te",
         "Strokes": ""
     },
     {
         "Kana": "と",
-        "Reading": "to",
+        "Reading": "To",
         "Strokes": ""
     },
     {
         "Kana": "な",
-        "Reading": "na",
+        "Reading": "Na",
         "Strokes": ""
     },
     {
         "Kana": "に",
-        "Reading": "ni",
+        "Reading": "Ni",
         "Strokes": ""
     },
     {
         "Kana": "ぬ",
-        "Reading": "nu",
+        "Reading": "Nu",
         "Strokes": ""
     },
     {
         "Kana": "ね",
-        "Reading": "ne",
+        "Reading": "Ne",
         "Strokes": ""
     },
     {
         "Kana": "の",
-        "Reading": "no",
+        "Reading": "No",
         "Strokes": ""
     },
     {
         "Kana": "は",
-        "Reading": "ha",
+        "Reading": "Ha",
         "Strokes": ""
     },
     {
         "Kana": "ひ",
-        "Reading": "hi",
+        "Reading": "Hi",
         "Strokes": ""
     },
     {
         "Kana": "ふ",
-        "Reading": "fu",
+        "Reading": "Fu",
         "Strokes": ""
     },
     {
         "Kana": "へ",
-        "Reading": "he",
+        "Reading": "He",
         "Strokes": ""
     },
     {
         "Kana": "ほ",
-        "Reading": "ho",
+        "Reading": "Ho",
         "Strokes": ""
     },
     {
         "Kana": "ま",
-        "Reading": "ma",
+        "Reading": "Ma",
         "Strokes": ""
     },
     {
         "Kana": "み",
-        "Reading": "mi",
+        "Reading": "Mi",
         "Strokes": ""
     },
     {
         "Kana": "む",
-        "Reading": "mu",
+        "Reading": "Mu",
         "Strokes": ""
     },
     {
         "Kana": "め",
-        "Reading": "me",
+        "Reading": "Me",
         "Strokes": ""
     },
     {
         "Kana": "も",
-        "Reading": "mo",
+        "Reading": "Mo",
         "Strokes": ""
     },
     {
         "Kana": "や",
-        "Reading": "ya",
-        "Strokes": ""
-    },
-    {
-        "Kana": "𛀆",
-        "Reading": "i",
+        "Reading": "Ya",
         "Strokes": ""
     },
     {
         "Kana": "ゆ",
-        "Reading": "yu",
-        "Strokes": ""
-    },
-    {
-        "Kana": "𛀁",
-        "Reading": "e",
+        "Reading": "Yu",
         "Strokes": ""
     },
     {
         "Kana": "よ",
-        "Reading": "yo",
+        "Reading": "Yo",
         "Strokes": ""
     },
     {
         "Kana": "ら",
-        "Reading": "ra",
+        "Reading": "Ra",
         "Strokes": ""
     },
     {
         "Kana": "り",
-        "Reading": "ri",
+        "Reading": "Ri",
         "Strokes": ""
     },
     {
         "Kana": "る",
-        "Reading": "ru",
+        "Reading": "Ru",
         "Strokes": ""
     },
     {
         "Kana": "れ",
-        "Reading": "re",
+        "Reading": "Re",
         "Strokes": ""
     },
     {
         "Kana": "ろ",
-        "Reading": "ro",
+        "Reading": "Ro",
         "Strokes": ""
     },
     {
         "Kana": "わ",
-        "Reading": "wa",
-        "Strokes": ""
-    },
-    {
-        "Kana": "ゐ",
-        "Reading": "i",
-        "Strokes": ""
-    },
-    {
-        "Kana": "𛄟",
-        "Reading": "u",
-        "Strokes": ""
-    },
-    {
-        "Kana": "ゑ",
-        "Reading": "e",
+        "Reading": "Wa",
         "Strokes": ""
     },
     {
         "Kana": "を",
-        "Reading": "o<sup",
+        "Reading": "Wo",
         "Strokes": ""
     },
     {
@@ -350,7 +325,8 @@
         "Strokes": ""
     },
     {
-        "hiragana": "ん",
-        "reading": "N"
+        "Kana": "ん",
+        "Reading": "N",
+        "Strokes": ""
     }
 ]

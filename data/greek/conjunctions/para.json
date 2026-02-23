@@ -1,0 +1,140 @@
+[
+    {
+        "Conjunction": "καί",
+        "Translation": "og",
+        "Type": "Kopulativ",
+        "Note": "Hyppigt brugt som adverbialled 'også'"
+    },
+    {
+        "Conjunction": "καί ... καί",
+        "Translation": "både ... og",
+        "Type": "Kopulativ",
+        "Note": ""
+    },
+    {
+        "Conjunction": "τε ... καί",
+        "Translation": "både ... og",
+        "Type": "Kopulativ",
+        "Note": "(τε) enklitisk"
+    },
+    {
+        "Conjunction": "τε ... τε",
+        "Translation": "både ... og",
+        "Type": "Kopulativ",
+        "Note": "(τε) enklitisk"
+    },
+    {
+        "Conjunction": "οὐδέ",
+        "Translation": "og ikke, ikke engang",
+        "Type": "Kopulativ",
+        "Note": "ΒΑΣΙΣ 17.2"
+    },
+    {
+        "Conjunction": "μηδέ",
+        "Translation": "og ikke, ikke engang",
+        "Type": "Kopulativ",
+        "Note": "ΒΑΣΙΣ 17.2"
+    },
+    {
+        "Conjunction": "οὐδέ ... οὐδέ",
+        "Translation": "hverken ... eller",
+        "Type": "Kopulativ",
+        "Note": "ΒΑΣΙΣ 17.2"
+    },
+    {
+        "Conjunction": "μηδέ ... μηδέ",
+        "Translation": "hverken ... eller",
+        "Type": "Kopulativ",
+        "Note": "ΒΑΣΙΣ 17.2"
+    },
+    {
+        "Conjunction": "γάρ",
+        "Translation": "for, thi, nemlig, jo",
+        "Type": "Kausal",
+        "Note": "enklitisk"
+    },
+    {
+        "Conjunction": "καὶ γάρ",
+        "Translation": "nemlig",
+        "Type": "Kausal",
+        "Note": "i begyndelsen af en sætning"
+    },
+    {
+        "Conjunction": "ὥστε",
+        "Translation": "derfor",
+        "Type": "Kausal",
+        "Note": "se også 9.2 i ΒΑΣΙΣ"
+    },
+    {
+        "Conjunction": "ἐμεί",
+        "Translation": "for",
+        "Type": "Kausal",
+        "Note": "se også 9.2 i ΒΑΣΙΣ"
+    },
+    {
+        "Conjunction": "ἐμειδή",
+        "Translation": "for",
+        "Type": "Kausal",
+        "Note": "se også 9.2 i ΒΑΣΙΣ"
+    },
+    {
+        "Conjunction": "ἀλλά",
+        "Translation": "men",
+        "Type": "Adversiv",
+        "Note": ""
+    },
+    {
+        "Conjunction": "δέ",
+        "Translation": "men, og",
+        "Type": "Adversiv",
+        "Note": "enklitisk"
+    },
+    {
+        "Conjunction": "μέν ... δέ",
+        "Translation": "på den ene side ... på den anden side, dels ... dels, ... men",
+        "Type": "Adversiv",
+        "Note": "enklitisk"
+    },
+    {
+        "Conjunction": "ἤ",
+        "Translation": "eller",
+        "Type": "Disjunktiv",
+        "Note": ""
+    },
+    {
+        "Conjunction": "ἤ ... ἤ",
+        "Translation": "enten ... eller",
+        "Type": "Disjunktiv",
+        "Note": ""
+    },
+    {
+        "Conjunction": "εἴτε ... εἴτε",
+        "Translation": "enten ... eller",
+        "Type": "Disjunktiv",
+        "Note": ""
+    },
+    {
+        "Conjunction": "πότεπον ... ἤ",
+        "Translation": "mon ... eller",
+        "Type": "Disjunktiv",
+        "Note": "sml. 9.2 i ΒΑΣΙΣ"
+    },
+    {
+        "Conjunction": "οὖν",
+        "Translation": "altså",
+        "Type": "Konklusiv",
+        "Note": "enklitisk"
+    },
+    {
+        "Conjunction": "γοῦν",
+        "Translation": "i hvert fald, i det mindste",
+        "Type": "Konklusiv",
+        "Note": "enklitisk"
+    },
+    {
+        "Conjunction": "ἄρα",
+        "Translation": "altså",
+        "Type": "Konklusiv",
+        "Note": "enklitisk"
+    }
+]
