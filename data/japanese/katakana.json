@@ -1,0 +1,282 @@
+[
+    {
+        "katakana": "ア",
+        "reading": "A"
+    },
+    {
+        "katakana": "イ",
+        "reading": "I"
+    },
+    {
+        "katakana": "ウ",
+        "reading": "U"
+    },
+    {
+        "katakana": "エ",
+        "reading": "E"
+    },
+    {
+        "katakana": "オ",
+        "reading": "O"
+    },
+    {
+        "katakana": "カ",
+        "reading": "Ka"
+    },
+    {
+        "katakana": "キ",
+        "reading": "Ki"
+    },
+    {
+        "katakana": "ク",
+        "reading": "Ku"
+    },
+    {
+        "katakana": "ケ",
+        "reading": "Ke"
+    },
+    {
+        "katakana": "コ",
+        "reading": "Ko"
+    },
+    {
+        "katakana": "サ",
+        "reading": "Sa"
+    },
+    {
+        "katakana": "シ",
+        "reading": "Shi"
+    },
+    {
+        "katakana": "ス",
+        "reading": "Su"
+    },
+    {
+        "katakana": "セ",
+        "reading": "Se"
+    },
+    {
+        "katakana": "ソ",
+        "reading": "So"
+    },
+    {
+        "katakana": "タ",
+        "reading": "Ta"
+    },
+    {
+        "katakana": "チ",
+        "reading": "Chi"
+    },
+    {
+        "katakana": "ツ",
+        "reading": "Tsu"
+    },
+    {
+        "katakana": "テ",
+        "reading": "Te"
+    },
+    {
+        "katakana": "ト",
+        "reading": "To"
+    },
+    {
+        "katakana": "ナ",
+        "reading": "Na"
+    },
+    {
+        "katakana": "ニ",
+        "reading": "Ni"
+    },
+    {
+        "katakana": "ヌ",
+        "reading": "Nu"
+    },
+    {
+        "katakana": "ネ",
+        "reading": "Ne"
+    },
+    {
+        "katakana": "ノ",
+        "reading": "No"
+    },
+    {
+        "katakana": "ハ",
+        "reading": "Ha"
+    },
+    {
+        "katakana": "ヒ",
+        "reading": "Hi"
+    },
+    {
+        "katakana": "フ",
+        "reading": "Fu"
+    },
+    {
+        "katakana": "ヘ",
+        "reading": "He"
+    },
+    {
+        "katakana": "ホ",
+        "reading": "Ho"
+    },
+    {
+        "katakana": "マ",
+        "reading": "Ma"
+    },
+    {
+        "katakana": "ミ",
+        "reading": "Mi"
+    },
+    {
+        "katakana": "ム",
+        "reading": "Mu"
+    },
+    {
+        "katakana": "メ",
+        "reading": "Me"
+    },
+    {
+        "katakana": "モ",
+        "reading": "Mo"
+    },
+    {
+        "katakana": "ヤ",
+        "reading": "Ya"
+    },
+    {
+        "katakana": "𛄠",
+        "reading": "Yi"
+    },
+    {
+        "katakana": "ユ",
+        "reading": "Yu"
+    },
+    {
+        "katakana": "エ",
+        "reading": "Ye"
+    },
+    {
+        "katakana": "ヨ",
+        "reading": "Yo"
+    },
+    {
+        "katakana": "ラ",
+        "reading": "Ra"
+    },
+    {
+        "katakana": "リ",
+        "reading": "Ri"
+    },
+    {
+        "katakana": "ル",
+        "reading": "Ru"
+    },
+    {
+        "katakana": "レ",
+        "reading": "Re"
+    },
+    {
+        "katakana": "ロ",
+        "reading": "Ro"
+    },
+    {
+        "katakana": "ワ",
+        "reading": "Wa"
+    },
+    {
+        "katakana": "ヰ",
+        "reading": "Wi"
+    },
+    {
+        "katakana": "𛄢",
+        "reading": "Wu"
+    },
+    {
+        "katakana": "ヱ",
+        "reading": "We"
+    },
+    {
+        "katakana": "ヲ",
+        "reading": "Wo"
+    },
+    {
+        "katakana": "ガ",
+        "reading": "ga"
+    },
+    {
+        "katakana": "ギ",
+        "reading": "gi"
+    },
+    {
+        "katakana": "グ",
+        "reading": "gu"
+    },
+    {
+        "katakana": "ゲ",
+        "reading": "ge"
+    },
+    {
+        "katakana": "ゴ",
+        "reading": "go"
+    },
+    {
+        "katakana": "ザ",
+        "reading": "za"
+    },
+    {
+        "katakana": "ジ",
+        "reading": "ji"
+    },
+    {
+        "katakana": "ズ",
+        "reading": "zu"
+    },
+    {
+        "katakana": "ゼ",
+        "reading": "ze"
+    },
+    {
+        "katakana": "ゾ",
+        "reading": "zo"
+    },
+    {
+        "katakana": "ダ",
+        "reading": "da"
+    },
+    {
+        "katakana": "ヂ",
+        "reading": "ji"
+    },
+    {
+        "katakana": "ヅ",
+        "reading": "zu"
+    },
+    {
+        "katakana": "デ",
+        "reading": "de"
+    },
+    {
+        "katakana": "ド",
+        "reading": "do"
+    },
+    {
+        "katakana": "バ",
+        "reading": "ba"
+    },
+    {
+        "katakana": "ビ",
+        "reading": "bi"
+    },
+    {
+        "katakana": "ブ",
+        "reading": "bu"
+    },
+    {
+        "katakana": "ベ",
+        "reading": "be"
+    },
+    {
+        "katakana": "ボ",
+        "reading": "bo"
+    }
+]

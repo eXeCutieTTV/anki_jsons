@@ -1,0 +1,31 @@
+let temp = [];
+function katakana() {
+    const trs = document.querySelector(".wikitable.nowraplinks").querySelectorAll('tr');
+
+    for (let i = 2; i < 12; i++) {
+        //console.log(trs[i])
+        const tds = trs[i].querySelectorAll('td');
+        for (let j = 0; j < 5; j++) {
+            //console.log(tds[j])
+            const result = {
+                katakana: tds[j].querySelector("a").innerText.replace(/[\[\]]/g, "").trim(),
+                reading: tds[j].querySelector("a").title.replace("(kana)", "").trim()
+            }
+            temp.push(result);
+        }
+    }
+    for (let i = 15; i < 19; i++) {
+        //console.log(trs[i])
+        const tds = trs[i].querySelectorAll('td');
+        for (let j = 0; j < 5; j++) {
+            //console.log(tds[j])
+            const result = {
+                katakana: tds[j].querySelectorAll("span")[1].innerText.replace(/[\[\]]/g, "").trim(),
+                reading: tds[j].querySelectorAll("span")[2].innerText.trim()
+            }
+            temp.push(result);
+        }
+    }
+}
+katakana();
+console.log(temp);
